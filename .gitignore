@@ -1,0 +1,6 @@
+data/transcripts.csv
+data/*.pkl
+__pycache__/
+.venv/
+.pytest_cache/
+data/sentences.csv

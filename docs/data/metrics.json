@@ -1,0 +1,200 @@
+{
+ "models": {
+  "Logistic regression": {
+   "macro_f1": 0.492,
+   "accuracy": 0.901
+  },
+  "Linear SVM": {
+   "macro_f1": 0.472,
+   "accuracy": 0.903
+  },
+  "Naive Bayes": {
+   "macro_f1": 0.315,
+   "accuracy": 0.787
+  }
+ },
+ "best": "Logistic regression",
+ "per_class": {
+  "regulatory": {
+   "precision": 0.257,
+   "recall": 0.142,
+   "f1": 0.183,
+   "support": 127
+  },
+  "supply_chain": {
+   "precision": 0.69,
+   "recall": 0.733,
+   "f1": 0.711,
+   "support": 367
+  },
+  "macro": {
+   "precision": 0.655,
+   "recall": 0.772,
+   "f1": 0.708,
+   "support": 815
+  },
+  "competition": {
+   "precision": 0.344,
+   "recall": 0.221,
+   "f1": 0.269,
+   "support": 95
+  },
+  "liquidity": {
+   "precision": 0.621,
+   "recall": 0.484,
+   "f1": 0.544,
+   "support": 376
+  },
+  "cyber": {
+   "precision": 0.333,
+   "recall": 0.021,
+   "f1": 0.039,
+   "support": 48
+  },
+  "none": {
+   "precision": 0.988,
+   "recall": 0.997,
+   "f1": 0.993,
+   "support": 5484
+  }
+ },
+ "labels": [
+  "regulatory",
+  "supply_chain",
+  "macro",
+  "competition",
+  "liquidity",
+  "cyber",
+  "none"
+ ],
+ "confusion": [
+  [
+   18,
+   4,
+   64,
+   7,
+   29,
+   0,
+   5
+  ],
+  [
+   3,
+   269,
+   75,
+   2,
+   11,
+   1,
+   6
+  ],
+  [
+   22,
+   83,
+   629,
+   17,
+   44,
+   1,
+   19
+  ],
+  [
+   11,
+   7,
+   37,
+   21,
+   12,
+   0,
+   7
+  ],
+  [
+   12,
+   23,
+   125,
+   14,
+   182,
+   0,
+   20
+  ],
+  [
+   4,
+   3,
+   22,
+   0,
+   11,
+   1,
+   7
+  ],
+  [
+   0,
+   1,
+   9,
+   0,
+   4,
+   0,
+   5470
+  ]
+ ],
+ "top_features": {
+  "competition": [
+   "they",
+   "you see",
+   "read",
+   "it",
+   "some of",
+   "their",
+   "fintech",
+   "dcai revenue"
+  ],
+  "cyber": [
+   "csa",
+   "power",
+   "fraud",
+   "security",
+   "gas",
+   "detect",
+   "threats",
+   "attacks"
+  ],
+  "liquidity": [
+   "operating",
+   "fixed cost",
+   "cash",
+   "fixed",
+   "our",
+   "balance",
+   "balance sheet",
+   "sheet"
+  ],
+  "macro": [
+   "macroeconomic",
+   "macro",
+   "offset",
+   "costs",
+   "pressure",
+   "pricing",
+   "challenging",
+   "economic"
+  ],
+  "regulatory": [
+   "requirements",
+   "approvals",
+   "credit sales",
+   "always",
+   "china",
+   "countries",
+   "minimum",
+   "with the"
+  ],
+  "supply_chain": [
+   "supply",
+   "labor",
+   "the chip",
+   "chip",
+   "semiconductor",
+   "silicon",
+   "ipad",
+   "industrywide"
+  ]
+ },
+ "n_train": 7312,
+ "n_positive": 1828,
+ "n_companies": 10
+}

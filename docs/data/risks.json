@@ -1,0 +1,2821 @@
+{
+ "AAPL": {
+  "quarters": [
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4",
+   "2023-Q1"
+  ],
+  "counts": {
+   "regulatory": [
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "supply_chain": [
+    14,
+    13,
+    20,
+    17,
+    25,
+    14,
+    3,
+    8
+   ],
+   "macro": [
+    3,
+    2,
+    7,
+    5,
+    11,
+    26,
+    18,
+    15
+   ],
+   "competition": [
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0
+   ],
+   "liquidity": [
+    2,
+    2,
+    4,
+    2,
+    2,
+    3,
+    2,
+    3
+   ],
+   "cyber": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [
+     "Tim Cook -- Chief Executive Officer\nI think with the regulatory questions and scrutiny, we have to make sure that we're telling our story and why we do what we do, and we're very focused on doing that.",
+     "One of the concerns many investors have is about the overhang of regulatory risk."
+    ],
+    [
+     "In terms of the regulatory focus, what we are focusing on from our angle is to serve users there and to make sure that they're very satisfied with the products and the services that we're showing.",
+     "And, Tim, there is increasing regulatory focus in China, in particular, on some of the Chinese companies."
+    ],
+    [
+     "So, how do you think about balancing the regulators push for more choice with a customer base that's happy with the existing experience.",
+     "And so, we're very, very focused in discussing the privacy and security elements of the App Store with the regulators and legislators."
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "supply_chain": [
+    [
+     "Yes, and the constraints come from the semiconductor shortages that are affecting many, many industries, and it's a combination of the shortages, as well as the very, very high level of demand that we are seeing for both iPad and Mac.",
+     "But I would point to Luca's point earlier about the shortages and those shortages primarily affect iPad and Mac.",
+     "Tim Cook -- Chief Executive Officer\nWe did not have a material supply shortage in Q2.",
+     "The shortages that Luca spoke about in the color that he provided on the future, affect primarily the iPad and the Mac.",
+     "Second, we believe supply constraints will have a revenue impact of 3 to $4 billion in the June quarter."
+    ],
+    [
+     "If I could follow up with regard to the supply constraints, and do you expect those supply constraints to persist through the December quarter as well what effect will that have on the holiday selling season?",
+     "iPad performance was also strong with revenue of $7.4 billion, up 12% in spite of significant supply constraints.",
+     "Tim Cook -- Chief Executive Officer\nThe majority of constraints we're seeing are of the variety that I think others are seeing that are -- I would classify as industry shortage.",
+     "The legacy nodes are where the supply constraints have been on silicon.",
+     "So I'm kind of curious, this is the first time I heard you talk about component shortages impacting the iPhone."
+    ],
+    [
+     "On the supply constraints, what we're saying is that the number -- the amount of -- the nominal amount of supply constraints for Q1, we estimate to be larger than $6 billion.",
+     "In terms of the chip shortage, that chip shortage is happening on legacy nodes, primarily with bottom supply.",
+     "And so for this quarter, we think that the primary cause of supply chain-related shortages will be the chip shortage.",
+     "iPad performance was also strong with a September quarter revenue record of $8.3 billion, up 21 percent in spite of significant supply constraints as customer demand for the iPad Pro, also powered by M1, was very strong.",
+     "We set a September quarter revenue record of $83.4 billion, an increase of nearly $19 billion or 29 percent from a year ago despite larger-than-expected supply constraints."
+    ],
+    [
+     "iPhone revenue grew 9% year over year to an all-time record of $71.6 billion despite supply constraints, thanks to a remarkable customer response to our new iPhone 13 family.",
+     "iPad generated $7.2 billion in revenue, down 14% year over year due to very significant supply constraints, but customer demand was very strong across all models.",
+     "and you'll get a little bit of a benefit as we get past some of these supply chain issues over the next 12 months or so?\nTim Cook -- Chief Executive Officer\nWe're seeing inflation, and it's factored into our gross margin and opex that Luca reviewed with you earlier.",
+     "We grew in each of our product categories, except iPad, where supply constraints were particularly pronounced, and set all-time records for iPhone; Mac; and wearables, home and accessories.",
+     "We expect to achieve solid year-over-year revenue growth and set a March quarter revenue record despite significant supply constraints, which we estimate to be less than what we experienced during the December quarter."
+    ],
+    [
+     "Supply constraints caused by COVID-related disruptions and industrywide silicon shortages are impacting our ability to meet customer demand for our products.",
+     "Before I hand it over to Luca, I want to acknowledge the challenges we are seeing from supply chain disruptions driven by both COVID and silicon shortages to the devastation from the war in Ukraine.",
+     "And you also spoke about a $4 billion to $8 billion supply constraint, which is a large amount compared to the revenue, and I understand you have the supply constraints and the China shutdowns.",
+     "iPhone revenue grew 5% year over year to a March quarter record of $50.6 billion despite supply constraints thanks to a continued strong customer response to our iPhone 13 family and the launch of our new iPhone SE.",
+     "iPad revenue was $7.6 billion, down 2% year over year due to continued supply constraints."
+    ],
+    [
+     "iPad, like Mac, continued to see strong demand during the June quarter despite ongoing supply constraints.",
+     "iPad revenue was $7.2 billion, down 2% year over year due to supply constraints and negative foreign exchange.",
+     "Wearables, Home, and Accessories revenue was $8.1 billion, down 8% year over year as we faced foreign exchange headwinds, different launch timing for Home and Accessories products and supply constraints as well as the overall macroeconomic environment.",
+     "We set a June quarter revenue record of $83 billion, up 2% year over year despite supply constraints, over 300 basis points of foreign exchange headwinds and the impact of our business in Russia.",
+     "We saw supply constraints, which we've talked about."
+    ],
+    [
+     "Second, we were able to satisfy pent-up demand that carried forward from the significant supply constraints we faced during the June quarter.",
+     "I'm also happy to report that during the quarter, silicon-related supply constraints were not significant.",
+     "Because evenly right now given the lead time data, it looks like your revenue trajectory in iPhones is more driven by the supply you have versus demand."
+    ],
+    [
+     "iPhone revenue was $65.8 billion despite significant foreign exchange headwinds, supply constraints on iPhone 4 Pro and iPhone 14 Pro Max, and a challenging macroeconomic environment.",
+     "Tim Cook -- Chief Executive Officer\nThe Pro has been a -- 14 Pro and the 14 Pro Max have done extremely well up until the point where we had a supply shortage and couldn't provide them -- couldn't provide the total of the demand.",
+     "Third, we experienced significant supply shortages for iPhone 14 Pro and iPhone 14 Pro Max in November and through December.",
+     "The very strong growth was due in part to a favorable compare to the December quarter a year ago when we experienced significant supply constraints.",
+     "In terms of the sizing of the constraint in Q1, what we estimate, although not with precision, is that we would -- I thought we believe iPhone would have grown during the quarter had it not been for the supply shortages."
+    ]
+   ],
+   "macro": [
+    [
+     "We are extremely pleased to report record results for our March quarter despite continued uncertainty in the macro environment.",
+     "These statements involve risks and uncertainties that may cause actual results or trends to differ materially from our forecast.",
+     "Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights assuming that the COVID-related impacts to our business do not worsen from what we are seeing today for the current quarter."
+    ],
+    [
+     "These statements involve risks and uncertainties that may cause actual results or trends to differ materially from our forecast.",
+     "Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights assuming that the COVID-related impacts to our business do not worsen from what we are projecting today for the current quarter."
+    ],
+    [
+     "You know, it gets -- when I think about the supply chain headwinds, you're talking about $6 billion in September, getting bigger in December.",
+     "When you mentioned, you know, supply chain headwinds going to get worse and you mentioned $6 billion this quarter, there's two ways to think about your terminology of worse.",
+     "These statements involve risks and uncertainties that may cause actual results or trends to differ materially from our forecast.",
+     "So, as we look to -- well, as I think about this upcoming cycle, how are you looking to manage component cost-related headwinds?",
+     "Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights based on the assumption that the COVID-related impacts to our business do not worsen from what we are projecting today for the current quarter."
+    ],
+    [
+     "and you'll get a little bit of a benefit as we get past some of these supply chain issues over the next 12 months or so?\nTim Cook -- Chief Executive Officer\nWe're seeing inflation, and it's factored into our gross margin and opex that Luca reviewed with you earlier.",
+     "These statements involve risks and uncertainties that may cause actual results or trends to differ materially from our forecast.",
+     "Second, we expect foreign exchange to be a 3-point headwind when compared to the December quarter growth rate.",
+     "Let me close by saying that despite the uncertainty of the world, there is one thing of which I am certain: Apple will continue to end every day and in every way to deliver on the promise of technology at its best.",
+     "Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights based on the assumption that the COVID-related impacts to our business do not worsen from what we are projecting today for the current quarter."
+    ],
+    [
+     "As we see more stock market volatility, rising interest rates, inflation, what metrics are you watching either internal to your business or external at the macro level to understand whether you'll ultimately start to see some demand impact particularly on the product side of your business?",
+     "From an inflation point of view, we are seeing inflation.",
+     "With respect to foreign exchange, we expect it to be nearly 300 basis points headwind.",
+     "With respect to foreign exchange, we expect it to be a nearly 300 basis point headwind to our year-over-year growth rate.",
+     "These statements involve risks and uncertainties that may cause actual results or trends to differ materially from our forecast."
+    ],
+    [
+     "So I'm wondering if you talk about, are you seeing any implications from recession fears or inflation fears to your end demand?",
+     "I can just tell you that looking at the numbers, there does appear to be headwinds in addition to the four items that we can articulate and we believe those to be macroeconomic headwinds.",
+     "Certainly, as you've seen over the last year, we've had a significant expansion in gross margins in spite of very difficult economic circumstances from COVID to inflation, interest rates going up and our margins have expanded.",
+     "iPhone revenue grew 3% year over year to a June quarter record of $40.7 billion despite foreign exchange headwinds as customer response to our iPhone 13 family continue to be strong.",
+     "Wearables, Home, and Accessories revenue was $8.1 billion, down 8% year over year as we faced foreign exchange headwinds, different launch timing for Home and Accessories products and supply constraints as well as the overall macroeconomic environment."
+    ],
+    [
+     "In terms of what played the other way, the headwinds, obviously, FX was a headwind that affected wearables, home, and accessories, just like it affected the rest of our products and services.",
+     "In terms of inflation, there's clearly wage inflation.",
+     "iPhone revenue grew 10% year over year to a September quarter record of $42.6 billion, despite significant foreign exchange headwinds.",
+     "We achieved an all-time revenue record of $11.5 billion, up 25% year-over-year, despite significant FX headwinds.",
+     "Tim, I wanted to ask you about inflation pressures and labor problems here in the U.S.\nand globally."
+    ],
+    [
+     "iPhone revenue was $65.8 billion despite significant foreign exchange headwinds, supply constraints on iPhone 4 Pro and iPhone 14 Pro Max, and a challenging macroeconomic environment.",
+     "iPad revenue was $9.4 billion, up 30% year over year despite significant FX headwinds.",
+     "We generated $20.8 billion in revenue, a new all-time record in total, and for many services offerings in spite of a difficult foreign exchange environment, and macroeconomic headwinds impacting certain categories such as digital advertising and mobile gaming.",
+     "We also faced a challenging macroeconomic environment and foreign exchange headwinds.",
+     "These statements involve risks and uncertainties and that may cause actual results or trends to differ materially from our forecast."
+    ]
+   ],
+   "competition": [
+    [],
+    [],
+    [
+     "Tim Cook -- Chief Executive Officer\nWe look at a variety of things, including our cost, including competition, including local conditions, and exchange rates, and, you know, a number of different things."
+    ],
+    [],
+    [
+     "We don't get to that level of granularity because we view it to be sensitive data that our competitors would love to have."
+    ],
+    [],
+    [],
+    []
+   ],
+   "liquidity": [
+    [
+     "Products gross margin was 36.1%, growing 100 basis points sequentially also thanks to cost savings and FX, partially offset by seasonal loss of leverage.",
+     "From an opex standpoint, I think as you've seen this year, we're getting a lot of leverage."
+    ],
+    [
+     "Products gross margin was 36%, down 10 basis points sequentially, as seasonal loss of leverage was almost entirely offset by cost savings.",
+     "Company gross margin was 43.3%, up 80 basis points from last quarter, driven by cost savings and a higher mix of services, partially offset by seasonal loss of leverage."
+    ],
+    [
+     "You know, maybe just about -- because I think, historically, I would have expected gross margins to be up in December given how much revenue leverage you end up with.",
+     "Products gross margin was 34.3 percent, down 170 basis points sequentially as higher cost structures were partially offset by leverage and mix.",
+     "Luca Maestri -- Chief Financial Officer\nWell as, you know, the -- typically, you know, obviously, with December being the holiday season, we do get leverage, as you say, but it's also the period of the year where we launch a lot of new products.",
+     "Company gross margin was 42.2 percent, down 110 basis points from last quarter due to higher costs and a different mix of products, partially offset by leverage."
+    ],
+    [
+     "Products gross margin was 38.4%, up 410 basis points sequentially, driven by leverage and mix.",
+     "Company gross margin was 43.8%, up 160 basis points from last quarter due to volume leverage and favorable mix, partially offset by higher cost structures."
+    ],
+    [
+     "Products gross margin was 36.4%, down 200 basis points sequentially mainly driven by seasonal loss of leverage and FX.",
+     "A seasonal loss of leverage and unfavorable foreign exchange were partially offset by favorable mix."
+    ],
+    [
+     "Products gross margin was 34.5%, down 190 basis points sequentially, mainly driven by seasonal loss of leverage, mix, and FX.",
+     "On a sequential basis, the decline is expected to be driven by, as you mentioned, foreign exchange but also mix, which will be partially offset by better leverage.",
+     "Company gross margin was 43.3%, down 40 basis points from last quarter as seasonal loss of leverage and unfavorable foreign exchange were partially offset by favorable mix."
+    ],
+    [
+     "Products gross margin was 34.6%, up 10 basis points sequentially, with improved leverage and favorable mix partially offset by foreign exchange.",
+     "It was down 100 basis points from last quarter due to unfavorable foreign exchange and a different mix, partially offset by leverage."
+    ],
+    [
+     "Obviously, in December, we have the benefit of leverage because of the seasonality of the business, but we also had favorable mix across the board.",
+     "Meanwhile, HCA Healthcare has leveraged Apple Financial Services to manage the annual refresh of its entire fleet of iPhones.",
+     "Company gross margin was 43%, up 70 basis points from last quarter due to leverage and favorable mix, partially offset by foreign exchange."
+    ]
+   ],
+   "cyber": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "Tim, and your entire company has done a great job at navigating through all the issues in the past several years, whether it be COVID, power outages, trade wars, shipping challenges and all that."
+    ],
+    [
+     "A passkey can't be phished nor can it be stolen by hackers in a data breach because the information is stored on your device and your device alone."
+    ],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   497,
+   516,
+   522,
+   486,
+   492,
+   444,
+   488,
+   508
+  ]
+ },
+ "AMZN": {
+  "quarters": [
+   "2021-Q1",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4"
+  ],
+  "counts": {
+   "regulatory": [
+    0,
+    0,
+    1,
+    0,
+    2,
+    2,
+    0,
+    0
+   ],
+   "supply_chain": [
+    0,
+    0,
+    2,
+    5,
+    4,
+    0,
+    1,
+    1
+   ],
+   "macro": [
+    1,
+    3,
+    6,
+    4,
+    17,
+    11,
+    10,
+    8
+   ],
+   "competition": [
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    0,
+    0
+   ],
+   "liquidity": [
+    3,
+    2,
+    4,
+    3,
+    6,
+    3,
+    3,
+    5
+   ],
+   "cyber": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [],
+    [],
+    [
+     "So we're doing everything we can, granted it's at a cost penalty in many cases, but we are -- we feel good about being able to serve customers this Q4."
+    ],
+    [],
+    [
+     "Let me start with the cost penalties.",
+     "In Q4, we did mention $4 billion of cost penalties and drag on that quarter."
+    ],
+    [
+     "There's still significantly a penalty year over year.",
+     "Of course, there are some regulatory hurdles and other differences out there."
+    ],
+    [],
+    []
+   ],
+   "supply_chain": [
+    [],
+    [],
+    [
+     "Labor shortages and supply chain disruptions upset this balance and resulted in additional costs to ensure that we continue to maintain our service levels to customers.",
+     "The demand for labor has recently coincided with the shortage of available workers, particularly in the United States."
+    ],
+    [
+     "We had said that we would have about $4 billion of additional costs due to labor shortages and the inefficiencies of that cost, as well as increased labor rates and shift differentials of premiums and external transportation costs.",
+     "Is there any bottlenecks to growth that you're still seeing?",
+     "I mean, you talked about why this was a very good quarter and having to do with some of the comps, but any bottlenecks to growth, either supply chain or employee-related?",
+     "First, could you discuss how supply -- the supply chain affected the business in 4Q and how we should think about perhaps impacts from supply chain issues in 1Q '22 and for the year?",
+     "But as far as Amazon is concerned, you know, we did a lot to combat the supply chain issues we saw in Q4 or anticipated in Q4."
+    ],
+    [
+     "Some of this is due to the impact of the Omicron variant in China and labor shortages at point of origin, and the start of the war in the Ukraine has contributed to high fuel prices.",
+     "During the pandemic, we were facing not only unprecedented demand but also extended lead times on new capacity.",
+     "Are you seeing supply chain disruption having any impact on advertising?",
+     "And with the ongoing supply chain disruptions and the start of the war in the Ukraine since our last quarter, we see larger impacts of inflation, some line haul shipping rates, fuel, shipping supplies and wages, which we talked about in some recent quarters as well."
+    ],
+    [],
+    [
+     "There's a unique thing going on with inventory right now because we have a lot of weeks of cover mainly due to supply chain issues coming out of Asia primarily and we're seeing with our sellers, too."
+    ],
+    [
+     "And I think that if you look at the last couple of years with things like the pandemic and the labor shortage in 2021 and the war in Ukraine and inflation and uncertain economy, good leadership teams look around and try to figure out what that means and how they should adjust their businesses."
+    ]
+   ],
+   "macro": [
+    [
+     "And in, particularly in markets where COVID is no longer a major issue, have you seen any particular declines or maybe just slowdown in e-commerce demand or a decline in growth?"
+    ],
+    [
+     "Given all this volatility, it's useful to consider the two-year compounded annual growth rate, which remains strong in the 25% to 30% range.",
+     "Do you think you will see any incremental headwinds, hiring the necessary people for fulfillment centers this year?",
+     "And certainly, the biggest contributor to inflationary pressures that we're seeing in the business."
+    ],
+    [
+     "We estimate the cost of labor, labor-related productivity losses, and cost inflation to have added approximately $2 billion in operating costs in Q3, particularly in August and September.",
+     "There's also a bit of a slowdown just in content and other things, although we're building that.",
+     "That's what we've identified, $2 billion roughly of labor inflation and $2 billion of operational disruption mostly through higher transportation costs.",
+     "Specifically in Q3, we saw nearly $1 billion of inflationary pressures, primarily tied to wage increases and incentives in our operations.",
+     "In addition, we saw inflationary pressures in raw materials and services, as I mentioned, particularly in steel and third-party trucking."
+    ],
+    [
+     "While we navigate these near-term headwinds, the fundamentals of our retail business are strong, and we're optimistic about a number of growth businesses and a strong innovation pipeline.",
+     "The inflation primarily relates to wage increases and incentives in our operations, as well as higher pricing from third-party carriers supporting our fulfillment network.",
+     "Can you see a slowdown in that big investment spending this year?",
+     "As we mentioned in the last earnings call, we did see more than $4 billion in costs from inflationary pressures and lost productivity and disruption in our operations."
+    ],
+    [
+     "Inflation was in the transportation costs, especially in wage inflation last year.",
+     "Combined with the year-over-year increases in wage inflation, these inflationary pressures have added approximately $2 billion of incremental costs when compared to last year.",
+     "We'll break these into two buckets: externally driven costs, primarily inflation, and internally controllable costs, primarily productivity and fixed cost deleverage.",
+     "This year, we expect to see stock-based compensation expense of approximately $6 billion, up from $3.3 billion in Q1, largely reflecting wage inflation as we continue to hire and retain employees in high-demand areas, including engineers and other tech workers.",
+     "The externally driven costs are a result of intensifying inflationary pressures throughout Q1."
+    ],
+    [
+     "We see that pattern every year, but we don't see that magnitude, and that's where a lot of our wage inflation is for, particularly our technical employees.",
+     "We also expect increased energy costs as we continue to see volatility in utility prices around the world in operating our AWS data centers.",
+     "This was a larger foreign exchange headwind than the 200 basis point impact we had incorporated into our Q2 guidance.",
+     "Some of your peers in the cloud space have talked about some slowdown in booking rates just as customers take longer to work through deal terms and duration.",
+     "So on the seller fee, again, we added that fee grudgingly in May to compensate for some of the inflationary pressures we're seeing."
+    ],
+    [
+     "With the ongoing macroeconomic uncertainties, we've seen an uptick in AWS customers focused on controlling costs.",
+     "We have seen inflation in our wages this year and particularly on our Czech employees is heavily concentrated in AWS.",
+     "This represents a headwind of approximately $900 million, more than we initially guided to.",
+     "There's three large buckets there, as I've said in the past, productivity, fixed cost leverage and inflation.",
+     "The continuing impacts of broad-scale inflation, heightened fuel prices and rising energy costs have impacted our sales growth as consumers assess their purchasing power and organizations of all sizes evaluate their technology and advertising spend."
+    ],
+    [
+     "In our worldwide stores business, with the ongoing economic uncertainty, coupled with the continuation of inflationary pressures, customers remain cautious about their spending behavior.",
+     "We've seen that during periods of economic uncertainty, consumers are very careful about how they allocate their resources and where they choose to spend their money.",
+     "Some of the key benefits of being in the cloud compared to managing your own data center are the ability to handle large demand swings and to optimize costs relatively quickly, especially during times of economic uncertainty.",
+     "As we look ahead, we expect these optimization efforts will continue to be a headwind to AWS growth in at least the next couple of quarters.",
+     "As we consider the ongoing uncertainties of the macroeconomic environment, this led us to the difficult decision to eliminate just over 18,000 roles, primarily impacting our stores and device businesses as well as our human resources teams."
+    ]
+   ],
+   "competition": [
+    [],
+    [],
+    [
+     "And obviously, we're customer-obsessed, but we also are a competitor aware."
+    ],
+    [],
+    [
+     "For our 1P business, that means continuing to be really competitive in that space with low prices relative to the reputable competitors out there and staying really close to that on the data."
+    ],
+    [
+     "In our emerging locations, there's a healthy amount of investment we've done to drive expansion, and we expect to continue to do that given the strong competition across many of these markets."
+    ],
+    [],
+    []
+   ],
+   "liquidity": [
+    [
+     "We started to see strong leverage of our fixed assets, especially our fulfillment center and transportation assets.",
+     "The leverage we are seeing on this higher revenue, combined with strong operational performance led to higher operating income as well.",
+     "I think there's some pretty good estimates out there that you probably can leverage."
+    ],
+    [
+     "There's growth, which helps us leverage our assets.",
+     "That's a lot of stress but it's a lot of leverage of the assets that we have."
+    ],
+    [
+     "We're also leveraging the flywheel, the Amazon flywheel offering some exclusive and free content part of Prime gaming, so it's part of Prime benefits.",
+     "Q4's guidance also includes an estimated $1 billion year-over-year negative impact from lower fixed cost leverage in our fulfillment network.",
+     "Does your same-day leverage kind of your existing fulfillment center footprint?",
+     "As we are now back to having a more normal Q4 fulfillment capacity and have even brought forward 2022 capacity into 2021, our operating leverage drops compared with last Q4."
+    ],
+    [
+     "So, it looked like you had a little bit greater leverage than you may have thought.",
+     "Our results also include approximately $1 billion year-over-year negative impact from lower fixed cost leverage in our fulfillment network.",
+     "Now, with more normal fulfillment capacity, our operating leverage decreases versus the comparable prior-year periods."
+    ],
+    [
+     "We have lowered our operation's capital expenditures for 2022 and are evaluating other ways to increase our fixed cost leverage.",
+     "We estimate that this overcapacity, coupled with the extraordinary leverage we saw in Q1 of last year, resulted in $2 billion of additional costs year over year in Q1.",
+     "We do expect the effects of the fixed cost leverage to persist for the next several quarters as we grow into this capacity.",
+     "The next bucket of costs related to productivity and fixed cost leverage, which we consider to be more within our control and are working to reduce.",
+     "The last issue relates to our fixed cost leverage."
+    ],
+    [
+     "There are two main drivers when talking about fixed cost leverage.",
+     "On the second point, we expect fixed cost leverage to improve in the second half of the year as we continue to grow into our capacity.",
+     "Lastly, the year-over-year negative impact of fixed cost leverage was relatively consistent with Q1."
+    ],
+    [
+     "Turning first to our North America and international segments, during the quarter, we generated over $1 billion in operations cost improvements driven by higher leverage of our fixed cost base and continued productivity improvements in our fulfillment and transportation networks.",
+     "There's three large buckets there, as I've said in the past, productivity, fixed cost leverage and inflation.",
+     "On fixed cost leverage, we've taken steps to alter our forward plan and take capex out."
+    ],
+    [
+     "We'll also take an impairment on capitalized costs and associated values of our leased buildings.",
+     "We also saw good leverage driven by strong holiday volumes.",
+     "This was related to employee severance, impairments of property and equipment and operating leases, and changes in estimates related to self-insurance liabilities.",
+     "The impairment charge in Q4 was $720 million and is included in other operating expense on our income statement.",
+     "Next, we recorded impairments of property and equipment and operating leases, primarily related to our Amazon Fresh and Amazon Go physical stores."
+    ]
+   ],
+   "cyber": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   306,
+   348,
+   385,
+   374,
+   331,
+   314,
+   295,
+   378
+  ]
+ },
+ "DIS": {
+  "quarters": [
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4",
+   "2023-Q1"
+  ],
+  "counts": {
+   "regulatory": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ],
+   "supply_chain": [
+    0,
+    0,
+    4,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "macro": [
+    0,
+    0,
+    6,
+    1,
+    11,
+    6,
+    5,
+    6
+   ],
+   "competition": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    2,
+    2,
+    2
+   ],
+   "liquidity": [
+    2,
+    2,
+    0,
+    2,
+    3,
+    1,
+    3,
+    2
+   ],
+   "cyber": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "Our diluted earnings per share, excluding certain items of $1.08, includes an adverse impact of approximately $0.11 due to the impact of higher effective tax rate on foreign earnings, including the impact of a recent change in US tax regulations."
+    ],
+    [],
+    [],
+    []
+   ],
+   "supply_chain": [
+    [],
+    [],
+    [
+     "We are seeing some impact from supply chain issues impacting certain sales categories.",
+     "There's a lot of moving pieces here between strong upfront, good sports ratings, but supply chain issues affecting some categories.",
+     "However, keep in mind that due to longer vacation planning lead times, we don't expect to see a substantial recovery in international attendance at our domestic parks until toward the end of fiscal 2022.",
+     "And the two that I would just call out are autos and technology, and those are for obvious reasons, that we all know about the chip shortage."
+    ],
+    [],
+    [
+     "On the supply chain, our business isn't immune to the global supply chain challenges."
+    ],
+    [],
+    [
+     "And also, just with supply chain and labor shortages in various parts of the world, where we are having projects, that slippage is probably a little more amplified."
+    ],
+    []
+   ],
+   "macro": [
+    [],
+    [],
+    [
+     "Where we see it directly in our parks business is primarily through the hourly wage inflation that we've seen through contract renegotiations and our commitment to paying our park workers well.",
+     "Inflationary pressures are something we are all looking at and trying to assess and think about how do we manage through it.",
+     "Bob, how about if you talk about the Disney+ sub growth in the U.S. and Christine can talk about inflation.",
+     "As I mentioned, we're also using technology to reduce some of our operating costs, and that gives us a little bit of headroom also to absorb some inflation.",
+     "And then, two is, we have covered Disney a long time, but I've never seen this much inflation before."
+    ],
+    [
+     "We expect international parks will continue to be impacted by COVID-related volatility for the remainder of Q2."
+    ],
+    [
+     "We have a very robust fuel hedging program at Walt Disney World, and that reduces risk and minimizes volatility, reduces volatility in the cost of fuel.",
+     "There's just too much uncertainty with the region in Asia that has two of our parks right now.",
+     "The one that is more challenging is what we face with inflation.",
+     "Hope is not a strategy, but it gives me hope that our other parks in Asia will see that same rebound when their COVID-related headwinds abate.",
+     "Forward-looking statements are subject to a number of risks and uncertainties, and actual results may differ materially from the results expressed or implied in light of a variety of factors."
+    ],
+    [
+     "So from the outside, it seems that the business is as well positioned as it's ever been in the face of a potential recession.",
+     "Forward-looking statements are subject to a number of risks and uncertainties and actual results may differ materially from results expressed or implied in light of a variety of factors, including macroeconomic or industry factors and execution risks.",
+     "For more information about key risks, please refer to our investor relations website, the press release issued today and the risks and uncertainties described in our Form 10-K, Form 10-Q and other filings with the Securities and Exchange Commission.",
+     "But as it relates to ARPU, if you have some volatility, you will see it in the ARPU, but it nets out as a company overall.",
+     "As we continue to scale back on third-party content licensing, we believe content sales, licensing and other results will continue to face headwinds and expect fourth quarter operating results will decrease versus the prior year by close to $100 million."
+    ],
+    [
+     "What is different is, compared to the last time we had a slowdown in the economy for managing our parks business, we have more commercial tools and levers available to us.",
+     "There was a mention of cost inflation in the release.",
+     "For more information about key risk factors, please refer to our investor relations website, the press release issued today, the risks or uncertainties described in the Form 10-K, Form 10-Q, and other filings with the Securities Exchange Commission.",
+     "But we're not going to use it to the extent to which we used it during the last recession.",
+     "All of which while based on extensive internal analysis, as well as recent experience, provides a layer of uncertainty in our outlook."
+    ],
+    [
+     "This includes timing impacts from BCCI cricket with eight additional matches versus the prior year, other contractual rights cost increases, and additional top-line headwinds.",
+     "For more information about key risk factors, please refer to our Investor Relations website, the press release issued today, the risks and uncertainties described in our Form 10-K, Form 10-Q, and other filings with the Securities and Exchange Commission.",
+     "Domestic Parks and Experiences operating margins improved versus the prior year despite increased costs from inflation, operation support, and new guest offerings, pressures which we expect will persist into Q2 and beyond.",
+     "Broadcasting and our other domestic cable networks will be adversely impacted in the second quarter by approximately $300 million, driven primarily by headwinds in advertising and, to a lesser extent, affiliate revenue.",
+     "And interestingly enough, if you look at the increase of the core ticket, let's say, at Disneyland, it has not really increased that much, maybe slightly ahead of inflation over the last few years."
+    ]
+   ],
+   "competition": [
+    [
+     "Championship games for the Copa Libertadores, the prominent regional international soccer competition, along with Grand Slam tennis."
+    ],
+    [],
+    [
+     "You see the content that, because of just the competition for talent, for everything that's involved in productions, content costs have gone up."
+    ],
+    [],
+    [
+     "So I wonder, given the rising content costs you're seeing in things like sports and competition around the globe, how do you measure maybe the need to drive shareholder returns versus attaining those sub targets that were laid out in 2020?"
+    ],
+    [
+     "So maybe, Bob, from a strategic perspective, when you think about sports, it does seem like that there are a lot of new entrants.",
+     "And then, secondly, you have a competitor that's looking to layer advertising into their product, they're suggesting that they're going to somehow do it differently."
+    ],
+    [
+     "So, Bob, I'm curious how you see the landscape changing as these new entrants come in, if you see it changing at all and how it impacts the environment.",
+     "In terms of the sort of, is the landscape changing with new entrants, you know, we really like our strong position that we've got going forward, not only in terms of the breadth of the sports that we're engaged in, but also the terms of the deals that we have."
+    ],
+    [
+     "Now, it's time for another transformation, one that rationalizes our enviable streaming business and puts it on a path to sustained growth and profitability while also reducing expenses to improve margins and returns and better positioning us to weather future disruption, increased competition, and global economic challenges.",
+     "Given the cyclical, but maybe, more importantly, the secular challenges across all of your businesses, linear film, content competition, etc."
+    ]
+   ],
+   "liquidity": [
+    [
+     "Moving the launch to late summer allows us to leverage a strong sports calendar which includes the return of European soccer leagues, including La Liga and the Premier League.",
+     "Content sales, licensing and other operating income at DMED increased in the second quarter versus the prior year due to higher TV SVOD results and lower content impairments partially offset by lower home entertainment results."
+    ],
+    [
+     "The increase in retail was due to higher results at Disney Stores, most of which were closed in the prior-year quarter as well as a comparison to the impairment of store assets in the prior-year quarter.",
+     "However, for the time being, we don't anticipate declaring a dividend or repurchasing shares until we return to a more normalized operating environment and our leverage is back to levels more consistent with a single A credit rating."
+    ],
+    [],
+    [
+     "The leverage in that business is ginormous as we've seen in this quarter.",
+     "Results decreased in the first quarter versus the prior year to an operating loss of $98 million, driven by lower theatrical results and higher film impairments, partially offset by improved TV SVOD results."
+    ],
+    [
+     "This includes leveraging our existing intellectual property.",
+     "As we continue to strategically prioritize leveraging our content for our own services, we expect content sales, licensing and other operating results to decrease in the third quarter by approximately $150 million to $200 million versus the prior year.",
+     "And when you think about the balance of that $32 billion, a meaningful amount of it will be enterprisewide content budget that will be dedicated into investments into the general entertainment content that we can leverage across all of our various distribution platforms."
+    ],
+    [
+     "Are you mostly going to look to leverage the formats you've used very successfully with Hulu, or do you actually think there may be an opportunity to use some innovative new formats on Disney+ for ads?"
+    ],
+    [
+     "However, going forward, we've got the ability not only to continue to enjoy those benefits in a linear world, but also begin to grow our opportunities in the digital realm and leverage that brand's growth into other avenues that, heretofore, we've not been able to necessarily tap into.",
+     "As we move forward, we will increasingly leverage that knowledge to refine our distribution decisions in order to best serve our audience and maximize the return on our content investments.",
+     "And now, with scale, incredible content pipeline, and global reach, Disney+ is well-situated to leverage our position for long-term profitability and success."
+    ],
+    [
+     "We will improve our marketing, better balancing platform and program marketing while also leveraging our legacy distribution platforms for marketing and programming.",
+     "And as you've seen time and time again, we have a unique way of leveraging creative success across multiple businesses and territories and over long periods of time."
+    ]
+   ],
+   "cyber": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   486,
+   481,
+   403,
+   419,
+   452,
+   415,
+   422,
+   455
+  ]
+ },
+ "F": {
+  "quarters": [
+   "2020-Q2",
+   "2020-Q4",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3"
+  ],
+  "counts": {
+   "regulatory": [
+    4,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    2
+   ],
+   "supply_chain": [
+    1,
+    5,
+    6,
+    5,
+    10,
+    10,
+    3,
+    2
+   ],
+   "macro": [
+    5,
+    2,
+    5,
+    10,
+    10,
+    15,
+    17,
+    9
+   ],
+   "competition": [
+    1,
+    1,
+    2,
+    3,
+    1,
+    0,
+    4,
+    3
+   ],
+   "liquidity": [
+    14,
+    3,
+    5,
+    2,
+    11,
+    6,
+    4,
+    11
+   ],
+   "cyber": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [
+     "We are on track this year to meet the new CO2 regulatory requirements for both passenger and commercial vehicles, supported by our growing portfolio of electrified vehicles.",
+     "There's some litigation that's going on.",
+     "The cost improvement was the net of four primary areas: lower structural costs due to suspended production and one-time cost actions like reduced marketing, both of which were partially offset by higher material costs for new products and regulatory compliance and higher warranty.",
+     "And I'm assuming that that's because your variable costs, mostly regulatory, is offsetting your structural cost savings."
+    ],
+    [
+     "So our team is working with our suppliers around the clock to optimize the constrained supply, minimize the profit impact, while also prioritizing customer orders, new vehicle launches and compliance with our CO2 emissions regulations."
+    ],
+    [],
+    [],
+    [
+     "A window regulator doesn't need to have a 4-nanometer chip."
+    ],
+    [],
+    [],
+    [
+     "I think what you'll see is that the tariff rules of the importing LFP batteries into the U.S.\nis still very favorable, so.",
+     "But I will tell you that just given the reality of the tariff structure, you know, we can import LFP from China economically now."
+    ]
+   ],
+   "supply_chain": [
+    [
+     "Note that our major launches in North America have shifted to the fourth quarter, in line with our COVID-related production disruption."
+    ],
+    [
+     "The situation is changing constantly, so it's premature to size what the shortage will mean for our full-year results.",
+     "The global semiconductor shortage situation is fluid and we're evaluating and updating the potential effects on our business in real-time.",
+     "However, the global semiconductor shortage is creating uncertainty across multiple industries and will influence our operating results this year.",
+     "And then for John, I was just wondering, if -- you're the first OEM to give us some guidance on the impact of semiconductor shortage on earnings, and thank you for that.",
+     "And so the net impact on the year would be between $1 billion and $2.5 billion, depending on where this falls out, relative to the production disruption in the first half."
+    ],
+    [
+     "The $1.5 billion 2H headwind from investments in modernization, is that something new that was planned for this year but maybe back-end-loaded due to management focusing on the chip shortage, or kind of how do you think about that?",
+     "Or do you think that there might be still some supply constraint lasting much longer and deeper into 2022?",
+     "North America posted a 40% sequential decline in wholesales due to the semiconductor shortage.",
+     "In aggregate, EBIT improved $800 million year over year but declined sequentially, mainly driven by Europe where the semiconductor shortage caused wholesale units to drop sequentially by nearly 35%.",
+     "First, I wanted to just ask on the chip shortage."
+    ],
+    [
+     "You know, there's an assumption that price and mix will deteriorate, and incremental units are produced as the semi shortage is relieved.",
+     "Third, driven by the chip shortage to roughly $4 million in wholesales we are likely to deliver this year fall significantly below our capacity.",
+     "At what point do we get -- or is your baseline expectation that the chip shortage is fully mitigated, and you can be back at full run rate production?",
+     "And we are creating a spring-loaded future as we emerge from the chip shortages and COVID constraints, and we continue to make important strides in the technology and go-to-market strategy for autonomous vehicles.",
+     "A, is this magnesium shortage going to cause any sort of near-term supply disruption for you?"
+    ],
+    [
+     "While we remain in the teeth of the COVID crisis and semiconductor shortages, our overall business is still in great shape.",
+     "We expect supply constraints to remain fluid throughout the year, reflecting a variety of factors, including semiconductors and COVID.",
+     "Volume was up 10% on a sequential basis as supply chain constraints eased and custom demand for our products remained strong.",
+     "In the face of ongoing challenges with semiconductor constraints and industrywide supply chain disruptions, we executed our Ford+ plan, including closing out our global redesign, strengthening our product portfolio and investing in exciting new opportunities fundamental to growth and value creation.",
+     "I get that there's more uncertainty now with the pandemic and the chip shortage."
+    ],
+    [
+     "The volume and mix impact primarily reflects supply constraints unique to full-size pickups in large utilities.",
+     "The appeal of our new products is really clear, and customers demand is extremely strong beyond the supply constraint of our industry.",
+     "Supply chain constraints continue to impact our business, including some of our key profit pillars.",
+     "Our international markets group performed well in the first quarter, continuing to be solidly profitable despite supply constraints and suspension of our joint venture operations in Russia.",
+     "In face of ongoing industrywide supply chain disruption and unremitting pandemic hurdles, we continued to execute against our Ford+ plan, including strengthening our product portfolio, investing in electrification and other new and exciting opportunities, fundamental to growth and value creation."
+    ],
+    [
+     "The Ford team delivered a very solid second quarter in a challenging environment where we saw supply chain disruptions, a lot of new economic headwinds, and uncertainty as a whole.",
+     "On the supply chain outside of -- we have labor shortages and all sorts of things.",
+     "However, the adverse effects of the near-term supply chain disruption are dampening its overall results."
+    ],
+    [
+     "And supply chain constraints began to ease, resulting in sequential wholesale growth of 23%.",
+     "And combining that with labor shortages and our high complexity, that had a larger impact on the supply base's ability to deliver cost efficiencies this year and much higher than we expected, and quite frankly, higher than we were initially willing to accept."
+    ]
+   ],
+   "macro": [
+    [
+     "We're not anticipating a big inflation, for example.",
+     "Overall, I'm proud to tell you that the balance sheet remains extremely solid and positions us to weather further disruptions and headwinds.",
+     "Our prudent actions in the first quarter ensured we were adequately reserved in light of the macro uncertainty created by COVID.",
+     "Is there a risk here that the structural costs kind of go away but the variable cost inflation that we see, like material, freight, warranty, that kind of stays?\nTim Stone -- Chief Financial Officer",
+     "In the face of unprecedented sector headwinds operationally, we maintained robust safety protocols and aggressively mitigated production losses while effectively navigating a tenuous supply base."
+    ],
+    [
+     "Revenue performance in South America was better than wholesale as we took aggressive price actions to offset inflation and currency pressures.",
+     "However, the global semiconductor shortage is creating uncertainty across multiple industries and will influence our operating results this year."
+    ],
+    [
+     "We see headwinds coming through, and we see pressure on contribution margin.",
+     "The $1.5 billion 2H headwind from investments in modernization, is that something new that was planned for this year but maybe back-end-loaded due to management focusing on the chip shortage, or kind of how do you think about that?",
+     "So there are some headwinds but the underlying strength of the business continues to be positive.",
+     "Despite the many headwinds from the semiconductor shortage, some of which were unique to Ford, our team skillfully managed our business and we generated a positive EBIT.",
+     "But what we also see heading into next year, a few headwinds."
+    ],
+    [
+     "What we're seeing from a headwind standpoint, if you look at Q3 to Q4, are commodities.",
+     "These are the types of things we're seeing from a puts and takes standpoint, strengths, and all the tailwinds and then the headwinds.",
+     "The dividend was also sized to ensure we maintain appropriate optionality to manage continued uncertainties in the external environment.",
+     "So it's not surprising that we would see some structural cost inflation.",
+     "Now for headwinds next year, it's difficult to predict the interplay between semiconductor-related constraints, volume, and pricing, and this will continue to remain dynamic."
+    ],
+    [
+     "You also see that commodities are gonna be a headwind next year of about $1.5 billion to $2 billion.",
+     "We also remain highly disciplined with our incentive spend and mix management, which, combined with improvement in warranty costs, more than offset commodity headwinds and supply chain-related production losses.",
+     "Third, we expect commodity headwinds of about $1.5 billion to $2 billion.",
+     "The mark-to-market may cause volatility in our quarterly GAAP, net income and EPS results.",
+     "That's about $1.5 billion headwind, but that's broadly offset with other efficiencies that we're working on."
+    ],
+    [
+     "and I assume that you would expect inflation to stick around for a while.",
+     "You've talked about price, but maybe you could just talk how that compares to maybe other cost offsets that will allow you to maintain your guide despite those incremental headwinds.",
+     "We're working to offset all the headwinds and maintain the guidance.",
+     "We're seeing pressures on inflation from suppliers.",
+     "We're just seeing higher inflationary pressures and higher pricing flow through."
+    ],
+    [
+     "The Ford team delivered a very solid second quarter in a challenging environment where we saw supply chain disruptions, a lot of new economic headwinds, and uncertainty as a whole.",
+     "We've got the inflationary pressures we talked about, will be an increase in the second half.",
+     "We're also seeing headwinds in the second half, John, from currency, the dollar strengthening.",
+     "We did have some one-time items come to us in the second quarter, roughly an insurance claim and a contract we renegotiated, which roughly would be maybe three-tenths, four-tenths of headwind.",
+     "We can achieve this while maintaining the financial flexibility to navigate external uncertainties."
+    ],
+    [
+     "To know that I think would help with understanding what portion of this headwind in 3Q that we should model as continuing into 2023 versus how much might be more onetime in nature.",
+     "So, any color on the offset to the headwinds that you outlined in the release?",
+     "But you did indicate raw materials look like about a 2 billion worse headwind.",
+     "But with higher transaction prices and higher interest rates, customers are going longer term.",
+     "Both of those measures were driven down year over year by higher commodity costs, inflationary pressures, and a diverse mix, reflecting the buildup of vehicles on wheels and inventory."
+    ]
+   ],
+   "competition": [
+    [
+     "We know that your competitor in this area is doing quite well in that product."
+    ],
+    [
+     "We think it's a real competitor to Tesla and their stronghold part of their price market."
+    ],
+    [
+     "Some of the EVs launched by your competitors are not quite getting the love from customers that was expected.",
+     "Some of our competitors can do it for their entertainment systems."
+    ],
+    [
+     "It's different than our competitors in the space.",
+     "In that business where vehicles are highly utilized, our dealer network is one of our most important advantages versus the new competitors.",
+     "But you're seeing some of your competitors who make some spherical investments in the downstream to make kind of -- for that customer experience."
+    ],
+    [
+     "We're going into this transition with the freshest ICE lineup I can think of any of our competitors, not just in the U.S. globally."
+    ],
+    [],
+    [
+     "So as we do this, we have to bring our complexity down to get our bill of materials kind of in line with competition.",
+     "On overall, how I see dealer margins, as we talk to our dealers and roll up our sleeves, is we need -- because I said our competitors are pure-play EVs and the Chinese that are absolutely coming.",
+     "Now along with product execution, these are really the relevant sustainable advantages we see to create, in today's hypercompetitive market, a difference where the real competition is not legacy OEMs, but pure-play EV companies, including emerging Chinese players.",
+     "In fact, our next two competitors combined sold just 159 vehicles."
+    ],
+    [
+     "So, what I'd expect on pricing -- and you see some of our competitors come in with higher spending now on incentives.",
+     "And they really set them apart from the competition.",
+     "An optimist would say, you know, you actually have confidence, and you'll be able to keep up and maybe surpass the competition over time."
+    ]
+   ],
+   "liquidity": [
+    [
+     "And how quickly can you actually get the interest expense under control so we can make sure we don't lose the operating leverage into the financial leverage?",
+     "We had a disciplined management of our balance sheet and an extremely strong liquidity position from all the actions we took earlier this year.",
+     "We ended the quarter with over $39 billion in cash and liquidity, reflecting almost $10 billion of new debt in the quarter, including the $8 billion unsecured issuance we completed in April.",
+     "We also demonstrated discipline in the management of our balance sheet and continue to maintain strong liquidity to ensure financial flexibility in these uncertain times.",
+     "So I feel, as I said, comfortable with our cash and liquidity position."
+    ],
+    [
+     "We're leveraging capacity at the JVs to build Lincolns and commercial vehicles.",
+     "We're leveraging all of our connected vehicles to identify issues faster, improve our warranty expense, improve our ownership experiences.",
+     "And now, we're seeing the evolving institutional capability inside Ford to leverage that data streaming off those vehicles and also use our over-the-air updates to improve quality and revolutionize the Ford customer experience."
+    ],
+    [
+     "We leveraged the strong demand to optimize our revenue and profits.",
+     "Our International Markets Group, we delivered another solid quarter, leveraging its portfolio strengths with Ranger pickups and Everest SUV.",
+     "Now looking toward 2022, we are confident in the underlying trajectory of our business and excited to see the momentum continue as we leverage one of the strongest product lineups in our history and continue to implement our Ford+ plan.",
+     "Cash and liquidity remained very strong, ending the quarter at $25.1 billion and $41 billion, respectively.",
+     "And that's because we see auction values coming down, and then we should see our credit reserves and our credit losses normalize as well."
+    ],
+    [
+     "We ended the quarter with strong cash and liquidity at over $31 billion and $47 billion, respectively.",
+     "Ford Credit delivered another solid quarter with $1.1 billion in EBT as auction values continue to remain strong and credit losses continue at near-record lows."
+    ],
+    [
+     "We're also working to revitalize our business through our digital capabilities, leveraging what we have from the connected vehicle to improve warranty even further, as well as improve what we're doing from a manufacturing standpoint and leverage that technology to bring those types of cost down.",
+     "And then, as I said earlier, on the ICE business, we're going to leverage the compute on the vehicles to really lower our manufacturing costs and leverage that compute to simplify what we do coming down the line and bring that down to the bottom line of the vehicle and then distribution.",
+     "There's opportunities for looking beyond as we move into these connected vehicles with more advanced electronics, potentially leveraging capital to secure supply chain there.",
+     "So there's a lot of opportunities as we move forward to leverage this cash to improve the business.",
+     "However, as I mentioned, we anticipate lower EBT reflecting primarily nonrecurrence of reserve releases, fewer returned off-lease vehicles and more normalized credit losses."
+    ],
+    [
+     "We will focus on key volume nameplates, constrained capital because we have it, but really to leverage scale and efficiency to reach and eventually exceed our 8% EBIT target for EVs.",
+     "We ended the quarter with strong cash and liquidity, nearly $29 billion and $45 billion, respectively.",
+     "Our focus is on our profit pillar vehicles, and as Jim mentioned really leveraging expedited freight.",
+     "However, as I mentioned, we anticipate strong but lower EBT, reflecting primarily the nonrecurrence of reserve release, fewer return off-lease vehicles and more normalized credit losses.",
+     "EBT was $900 million, reflecting strong lease residuals and credit loss performance."
+    ],
+    [
+     "EBT will be strong but lower, reflecting primarily lower credit loss reserve release, fewer return off-lease vehicles, and more normalized credit losses.",
+     "We ended the quarter with strong cash and liquidity of $29 billion and $45 billion, respectively.",
+     "Our results this quarter reflect the improved earnings and cash flow potential of our business, along with leverage created from disciplined capital allocation and a much more focused business model, including our industrial footprint.",
+     "And finally, Ford Credit delivered another strong quarter with EBT of $900 million, reflecting strong lease residuals and credit loss performance."
+    ],
+    [
+     "We understand the magnitude of opportunity and leverage that this will provide across the entire business.",
+     "We ended the quarter with nearly $50 billion in liquidity, even as we accelerate investments in connectivity and electrification.",
+     "The anticipated sequential profit decline was driven by the nonoperating release of credit loss reserves and higher borrowing costs.",
+     "So, we ended the quarter with $32 billion of cash and $49 billion of liquidity.",
+     "Second, we're no longer releasing COVID-related credit loss reserves."
+    ]
+   ],
+   "cyber": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   615,
+   542,
+   587,
+   617,
+   492,
+   653,
+   609,
+   528
+  ]
+ },
+ "GE": {
+  "quarters": [
+   "2021-Q1",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4"
+  ],
+  "counts": {
+   "regulatory": [
+    3,
+    0,
+    1,
+    2,
+    6,
+    2,
+    2,
+    0
+   ],
+   "supply_chain": [
+    2,
+    3,
+    13,
+    18,
+    26,
+    21,
+    5,
+    0
+   ],
+   "macro": [
+    12,
+    12,
+    27,
+    22,
+    38,
+    24,
+    12,
+    22
+   ],
+   "competition": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0
+   ],
+   "liquidity": [
+    3,
+    5,
+    6,
+    6,
+    5,
+    3,
+    1,
+    0
+   ],
+   "cyber": [
+    2,
+    5,
+    2,
+    3,
+    1,
+    4,
+    4,
+    3
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [
+     "We've previously noted ongoing litigation related to our run-off Polish mortgage portfolio.",
+     "We expect upcoming decisions of the European Court of Justice and the Polish Supreme Court to have an impact on the litigation landscape for Polish banks, including our run-off Polish mortgage business.",
+     "And we -- as our customers do need to have, I think, better visibility with respect to the number of funding programs, tax policy changes and regulatory approvals, that will have real impact on orders and, in turn, down payments in that business."
+    ],
+    [],
+    [
+     "Just last week, GE and AerCap satisfied all regulatory clearances for the GECAS transaction."
+    ],
+    [
+     "This quarter, we recorded charges of about $200 million, mainly driven by more adverse results in the ongoing litigation with borrowers.",
+     "This brings the total estimate of losses in connection with this litigation to approximately $800 million."
+    ],
+    [
+     "This quarter, we recorded charges of about $200 million, mainly driven by more adverse results for banks in the ongoing litigation with borrowers.",
+     "This brings the total litigation reserves related to this matter to approximately $900 million.",
+     "That doesn't -- that tends not to carry some of the penalties that you'll see in longer-cycle businesses.",
+     "First, separation costs related to the planned business operation; second, the asset impairment due to our previously announced plan to sell the nuclear activities within our Steam business to EDF; and third, Russia and Ukraine charges, primarily related to sanction activities at aviation and certain power businesses.",
+     "And in addition, we do not expect changes to statutory reserves to regulatory capital or projected funding."
+    ],
+    [
+     "This brings the total litigation reserves related to this matter to approximately 1 billion.",
+     "And this quarter, we recorded charges of about 200 million, primarily driven by unfavorable results for banks in ongoing litigation with borrowers."
+    ],
+    [
+     "This brings total litigation reserves related to this matter to approximately 1.1 billion.",
+     "In discontinued operations, we recorded charges of about 100 million in our run-off Polish BPH mortgage portfolio, primarily driven by unfavorable results for banks in ongoing litigation with borrowers."
+    ],
+    []
+   ],
+   "supply_chain": [
+    [
+     "Overall, engine deliveries remain pressured, primarily in rotorcraft, and our team continues to address these supply chain challenges.",
+     "Deane Dray -- RBC Capital Markets -- Analyst\nHey, just a lot of angst right now across the industrials about cost inflation, supply chain disruptions."
+    ],
+    [
+     "The teams worked across the supply chain to help mitigate industrywide supply shortages related to electronics and resins, which impacted growth this quarter.",
+     "Military continues to be impacted by internal and external supply chain issues, with output expectations falling short this quarter.",
+     "I think as we look at business that we might have lost, I'm not sure we can really pinpoint particular orders that went elsewhere because our lead times have been pushed, again, because I don't think this is an isolated GE dynamic."
+    ],
+    [
+     "We've heard a few companies talk about the view that like August and September, where the pinnacle of supply chain challenges and things might be easing a little bit.",
+     "We're working through supply chain challenges here, be it material, be it labor, as we are everywhere else.",
+     "We're feeling the impact of supply chain disruptions in many of our businesses, with the largest impact to date in Healthcare.",
+     "The team used value stream mapping, standard work and quarterly Kaizens to reduce production lead time once parts are received by more than 40% from a year ago.",
+     "The supply chain challenges, you'll see through earnings, but also through inventory, right?"
+    ],
+    [
+     "We're navigating supply chain constraints, which significantly impacted deliveries this quarter.",
+     "We're managing through various market and operational dynamics, including supply chain challenges in all businesses, especially Healthcare as well as the continued impact of increased selectivity.",
+     "We see opportunity to improve inventory turns as we resolve supply chain constraints.",
+     "The supply chain issues are what they are.",
+     "Supply chain challenges are expected to continue at least through the first half of '22, which we're actively managing."
+    ],
+    [
+     "We're managing through this and the supply chain disruptions.",
+     "We're doing kaizens with our suppliers to help them break bottlenecks where we can.",
+     "We expected inventory to grow in the first quarter as inventory was built to support second-half volume, but this was further impacted by material shortages, delaying shipments of finished goods.",
+     "Using standard work, they reduced lead time to prep the hub costing for the assembly line by 80%, so from nine hours to under two.",
+     "This was offset by significant headwinds, including supply chain disruptions."
+    ],
+    [
+     "Working capital will be pressured as we protect customers from the impact of supply chain challenges, as well as the timing of renewable energy-related orders, which together are likely to push out approximately $1 billion of free cash flow into the future.",
+     "We also expect lower commercial engines revenue, trending below 20% growth year-over-year due to continued supply chain challenges.",
+     "This was offset by higher working capital tied to inventory build as we prepare for the second half ramp, as well as work through the supply chain issues.",
+     "This quarter, however, supply chain challenges also contributed to elevated inventory levels across inputs and outputs.",
+     "They reduced cycle time by over 20% lifting capacity by about 5 million doses annually critical in a shortage."
+    ],
+    [
+     "We've continue to build inventory as we prepare for the fourth quarter ramp and continue to work through ongoing supply chain challenges.",
+     "We've been offsetting supply constraints by embedding Lean throughout our business.",
+     "Top-line growth across the business reflects the tireless work of our teams and partners to address supply chain constraints and improve product fulfillment.",
+     "One way we monitor supply dynamics is through red flags, identifying lines of risk of a shortage, if not replenished within 10 days.",
+     "And in our case, where there might be a couple of thousand components that come into an MRI, you know, the shortage of one or two pieces could let that big chunk of equipment actually not get transferred."
+    ],
+    []
+   ],
+   "macro": [
+    [
+     "We may see levels fluctuate throughout 2021 due to the continued market volatility.",
+     "The factoring headwind, I think, even if you look at just the near-term here, the four to five guide that you all reflected, I think, the near-term impact is probably 800 million less.",
+     "That creates a little bit of the volatility that we referred to.",
+     "Is it -- would it represent a particular headwind for the second quarter or for the balance of the year?",
+     "If I bring this back to free cash flow, I know that you kind of guide to 2023 at high single-digit free cash flow margins, but you removed a lot of headwinds."
+    ],
+    [
+     "Looking forward to the second half of '21 and into '22, although inflation pressure is likely to increase, particularly in aviation and Renewables, we expect the net inflation impact to be limited.",
+     "Looking ahead, we're focused on our operational priorities, including cost reduction to help offset increased medium-term headwinds from the market inflation and new technology and platform transitions.",
+     "We're cautious of inflation, and we're watching the PTC dynamics and how that will impact us.",
+     "This was driven by continued cost out and volume leverage that more than offset mix and other headwinds, such as lower margin on new products, which typically improves our product life cycle.",
+     "Regarding inflation, we're seeing pressure."
+    ],
+    [
+     "This environment, along with inflation headwinds picking up next year, makes renewables' ongoing work to improve cost productivity even more urgent.",
+     "Carolina Dybeck Happe -- Chief Financial Officer\nIf we start with inflation, I just want to reiterate that, of course, we're hit by inflation, but it's a bit different depending business by business.",
+     "And then as a follow-up to that, for next year, with the $1.5 billion headwind as AD&A normalizes, what mechanically -- like what's the math that can overcome that kind of headwind for Aviation to grow free cash?\nCarolina Dybeck Happe -- Chief Financial Officer\nOK.",
+     "Yes, AD&A will be a headwind.",
+     "While we're navigating headwinds caused by supply chain and PTC pressure, these have impacted our growth expectations."
+    ],
+    [
+     "While both supply chain and inflation impacts were limited this quarter, rising inflation will be a bigger impact in 2022 as we have previously flagged.",
+     "We're not doing them in reaction to these inflationary pressures that we see, but the inflationary pressures make progress all the more critical.",
+     "This was offset by supply chain headwinds across the company, renewable energy performance, and rising inflationary pressures.",
+     "While the current GE CFM departures are down 25% versus '19 levels, given recent volatility due to the Omicron variant, it wasn't a material impact in 2021.",
+     "We're going to see a little bit more headwind, I think, just given our cycling through the P&L in '22 than we did in '21."
+    ],
+    [
+     "There was approximately 200 basis points of additional margin headwinds from inflation and logistics costs net of sourcing actions at the total company level.",
+     "Segment margin was significantly impacted by increased material and logistics inflation, which net of our sourcing actions resulted in a headwind of about four points.",
+     "You have the price/cost inflation bucket and the productivity bucket.",
+     "While we achieved positive pricing on deliveries this quarter, particularly in aviation and power, it was not enough to offset inflation.",
+     "We're clearly seeing more inflation there."
+    ],
+    [
+     "Partly offsetting these improvements was approximately 200 basis points of margin headwinds from inflation and logistics costs, net of sourcing actions.",
+     "Well, I would say our more conservative view of the U.S. onshore wind market creates more uncertainty about when we get the progress part and possible restructuring.",
+     "We saw them in the first half, but we do expect, depending on long cycle versus short cycle little bit of different impact of inflation in the second half, but still working to mitigate that.",
+     "This is coupled with additional inflationary pressures and slip durability actions.",
+     "The remainder of the decline was split roughly equally between net inflation pressures across our businesses and higher-than-expected new product costs in onshore international as we take measures to improve durability across our fleet."
+    ],
+    [
+     "Volume together with price contributed almost 300 basis points of margin expansion, offsetting headwinds from inflation and logistics costs.",
+     "When you referenced the 1 billion of headwind year over year, that's comparing '21 to '22.",
+     "We also expect to offset healthcare pressure, largely due to inflation and investments with strength in the other businesses.",
+     "The remainder of the decline was driven by lower U.S. volume at onshore and net inflation pressure in all businesses.",
+     "So, we're not unmindful of the macro at Aerospace, but we've got a lot of activity to work through and perhaps a little bit of a secular exemption to some of the near-term economic uncertainty."
+    ],
+    [
+     "While still net price cost positive, we expect inflation will continue to be challenging in 2023.",
+     "This was partially offset by inflationary pressures, especially at our shorter-cycle businesses and pressure from renewables.",
+     "The actions we've taken on price are expected to offset inflation pressures, and we continue to make progress, including our small -- our smaller cost structure and productivity.",
+     "So, price cost for power, having had a big price impact in 2022 when you lap that in 2023, being pressured by the inflation coming through in the P&L being such a long-cycle business.",
+     "Similar to aerospace, we expect inflation will remain challenging through 2023."
+    ]
+   ],
+   "competition": [
+    [],
+    [],
+    [
+     "Like to get some more comments, if we could, on the Aviation aftermarket visibility, that 40% up year over year in shop visits, similar to what your competitors have announced."
+    ],
+    [],
+    [],
+    [
+     "I guess I should really be greedy and follow my colleagues, competitors, and ask five questions."
+    ],
+    [
+     "And then, also, just looking at the aftermarket, right, I don't expect you to speak to your competitors necessarily, but, you know, Collins and Pratt posted 23% to 25% aftermarket growth here."
+    ],
+    []
+   ],
+   "liquidity": [
+    [
+     "Turning to liquidity and leverage on slide six.",
+     "Our liquidity is strong, and we have ample additional liquidity sources for future deleveraging actions.",
+     "At insurance, we continue to see a positive claims trend and strong investment results versus last year when we had pandemic-related marks and impairments as well."
+    ],
+    [
+     "Turning to liquidity and leverage on Slide 6.",
+     "We ended the quarter with $22 billion of cash and recently refinanced our backup credit facility.",
+     "This was primarily driven by lower marks and impairments as well as higher gains at EFS, better performance at insurance and the discontinuation of preferred dividend payment, which are now a GE Industrial obligation.",
+     "This was driven by continued cost out and volume leverage that more than offset mix and other headwinds, such as lower margin on new products, which typically improves our product life cycle.",
+     "But I remember last year when you were doing your impairment testing, you really made a concerted effort to look at the 20% of your portfolio that was high risk."
+    ],
+    [
+     "We're leveraging lean across GE and our finance function.",
+     "There are countless other examples of how our teams are leveraging lean to drive sustainable, impactful improvements in safety, quality, delivery, cost, and cash.",
+     "On liquidity, we ended the quarter with $25 billion of cash.",
+     "Leveraging problem solving and value stream mapping, they have reduced average billing cycle time by 30% so far.",
+     "As we've shared, we expect near-term leverage to remain elevated."
+    ],
+    [
+     "We expect our leverage to continue to decrease with a clear focus on improving operations and thereby EBITDA.",
+     "We also always consider how can we help customers make the most of their investments whether that's through efficient digital upgrades at AI, such as our AIR Recon DL, or leveraging a platform like Revolution Apex CT to scale existing solutions without significant hardware changes.",
+     "This leverage was supported by solid services as shop visits increased 10% year over year, and we reduced operational costs.",
+     "So we're working both of those cost leverage while at the same time, making sure that we are pushing price where we can.",
+     "So on the deleveraging, yes, we've made tremendous progress on our debt and leverage, took out more than $50 billion in 2021."
+    ],
+    [
+     "We've been leveraging every tool at our disposal within our control.",
+     "We are focused on what's within our control by leveraging lean and digital tools to improve our operations.",
+     "Sequential improvement depends on supply chain constraints easing, especially in China, and our ability to leverage lean to improve output and strengthen our pricing discipline.",
+     "I'm confident that our team is leveraging lean and decentralization, focused on safety, quality, and delivery, and taking action to drive growth, price, and cost out.",
+     "First, separation costs related to the planned business operation; second, the asset impairment due to our previously announced plan to sell the nuclear activities within our Steam business to EDF; and third, Russia and Ukraine charges, primarily related to sanction activities at aviation and certain power businesses."
+    ],
+    [
+     "We're working the fundamentals with Scott and his team leveraging the power playbook that has delivered improved profitability and increased cash over the last three years.",
+     "The names leverage GE's multibillion-dollar global brand and deep customer trust, giving us competitive advantage in our end markets.",
+     "But maybe help us understand the sort of revised revenue guide for the year and how we're thinking about the half-on-half step-up, what kind of operating leverage we should expect and what price cost is doing in the back half?"
+    ],
+    [
+     "Our proven leadership with Scott Strazik and his team at the helm is leveraging the lessons from their power playbook to transform renewables fundamentals."
+    ],
+    []
+   ],
+   "cyber": [
+    [
+     "We saw meaningful improvement in services revenue, up 13%, due to strong transactional backlog execution and higher outages.",
+     "This was driven by higher outages and stronger commercial performance compared to the pandemic-related disruptions last year."
+    ],
+    [
+     "gas power services was up significantly across both CSAs and transactional portfolios, primarily due to higher outages.",
+     "Now, Q3 is typically our toughest service quarter with lower activity compared to the spring and the fall outages season, which are in the second and the fourth quarter, respectively.",
+     "Is that sort of a catch-up on outages from last year?",
+     "Encouragingly, outage starts were up 50% year over year and up mid-single digits versus 2Q '19.",
+     "But we do see, I think, higher outages with the contractual business."
+    ],
+    [
+     "Rather than just throwing a lot of bodies and a lot of capital into the breach, we really are trying to work the process.",
+     "Margins expanded year over year, yet were down sequentially due to outage seasonality."
+    ],
+    [
+     "Power, we would expect the outages as usual to be more second half-loaded.",
+     "One recent example is what our Gas Power team did to dramatically improve the 7F turbine outage experience for our North American customers.",
+     "By standardizing crews, optimizing material flow, and digitizing frontline field procedures, the team reduced outage cycle time by 30%, ultimately decreasing customer downtime."
+    ],
+    [
+     "And while we expect a dip in our CSA revenue, driven by a lower planning outage profile in 2022 really based on multiyear technology cycles, we expect to increase next year."
+    ],
+    [
+     "And then with this typical seasonality in Power, in the second quarter, we have the outages and we have a bit lower margin outages in the third quarter.",
+     "We're focused on expanding our services opportunity and expect higher CSA outages next year.",
+     "We delivered strong transactional services growth in gas and power conversion, which was offset with the expected lower gas outage volume.",
+     "Services declined due to lower gas outages in line with our multiyear technology cycle."
+    ],
+    [
+     "As expected, we're managing through a lower CSA outage year, typical third quarter seasonality, and second half timing dynamics for some equipment deliveries and CSA outages pushed to the fourth quarter.",
+     "This was mainly due to lower CSA outages and unfavorable equipment mix at gas.",
+     "Meanwhile, services grew 6%, driven by gas, by price, and transactional services growth offset the lower expected CSA outage volume.",
+     "Healthcare improved sequentially, and power declined year over year due largely to planned service outage seasonality."
+    ],
+    [
+     "We talked about '22 being a low-CSA outage year, '23 will be higher CSA outage year, so that's good.",
+     "You can't get away from like scheduled outages that will impact the fourth quarter.",
+     "So, renewables sequentially growing through the year -- sorry, aerospace sequentially growing through the year, renewables significant for the first half to second half ramp, and power more the typical outage seasonality where you'd see sort of large 2Q and even larger 4Q."
+    ]
+   ]
+  },
+  "total_sentences": [
+   574,
+   590,
+   648,
+   648,
+   576,
+   566,
+   658,
+   473
+  ]
+ },
+ "GOOGL": {
+  "quarters": [
+   "2021-Q1",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4"
+  ],
+  "counts": {
+   "regulatory": [
+    0,
+    1,
+    2,
+    4,
+    4,
+    0,
+    1,
+    0
+   ],
+   "supply_chain": [
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "macro": [
+    1,
+    3,
+    5,
+    4,
+    10,
+    14,
+    12,
+    6
+   ],
+   "competition": [
+    1,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "liquidity": [
+    2,
+    1,
+    1,
+    2,
+    0,
+    2,
+    0,
+    1
+   ],
+   "cyber": [
+    0,
+    3,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [],
+    [
+     "Is -- are the issues more regulatory, more technical?"
+    ],
+    [
+     "Philipp Schindler -- Senior Vice President/Chief Business Officer\nSo to the second part of your question, we continue to watch countries as vaccination rates climb and local regulations ease.",
+     "Other countries, depending on local regulations and vaccines, have been slower to rebound."
+    ],
+    [
+     "We have call for privacy regulations, particularly at the federal level, updating protections for children and so on.",
+     "On your question about congressional antitrust bills.",
+     "How do we make sure that complies with all the regulation?",
+     "As a company, we have always been constructive in how we have approached, and we are open to sensible, updated regulations."
+    ],
+    [
+     "We'll be engaging constructively, including regulatory dialogue, to understand and make progress.",
+     "Sundar Pichai -- Chief Executive Officer\nOn the second part of the question about DMA and -- regulation.",
+     "How do you think about the regulatory environment and the evolution over the next couple of years?",
+     "And then secondly, when you think about regulation in Europe, there's a lot of headlines about the Digital Market Act and other things."
+    ],
+    [],
+    [
+     "This has helped Vertiv analyze 22 times more security data while cutting investigation time in half."
+    ],
+    []
+   ],
+   "supply_chain": [
+    [],
+    [],
+    [
+     "Can you talk a little bit about the business elements of Google's products and what elements of reopening dynamic you're seeing on a sector basis versus potential headwinds as we move into Q4 and next year from things like supply chain shortages or labor shortages or things like that?",
+     "Any more commentary on how you're thinking about supply and labor shortage dynamics in the fourth quarter and if you're perhaps seeing anything thus far there?"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "macro": [
+    [
+     "Some of the statements that we make today regarding our business, operations, and financial performance, including the effect of the COVID-19 pandemic on those areas, may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially."
+    ],
+    [
+     "Within Other Revenues, Play revenue growth for the balance of the year will face headwinds due to the impact of lapping elevated engagement in the pandemic, as well as the change in fee structure, which was implemented as of July 1.",
+     "Some of the statements that we make today regarding our business, operations and financial performance, including the effect of the COVID-19 pandemic on those areas may be considered forward-looking and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+     "Or take Amtrak, COVID hit, ridership plummeted, budgets were cut, uncertainty ensued on how to efficiently reach essential travelers."
+    ],
+    [
+     "Some of the statements that we make today regarding our business, operations and financial performance, including the effect of the COVID-19 pandemic on those areas may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+     "It's clear that uncertainty is the new normal.",
+     "Is there anything that suggests that some of these ATT headwinds for other people in the industry actually cost shifts in budget over to your different platforms.",
+     "Can you talk a little bit about the business elements of Google's products and what elements of reopening dynamic you're seeing on a sector basis versus potential headwinds as we move into Q4 and next year from things like supply chain shortages or labor shortages or things like that?",
+     "But on a shorter duration basis, there seems to be an element of headwinds and tailwinds in the broader macro economy."
+    ],
+    [
+     "We are nearly two years into a global pandemic that has brought unprecedented change and uncertainty in the macro environment.",
+     "Some of the statements that we make today regarding our business, operations and financial performance, including the effect of the COVID-19 pandemic on those areas, may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+     "Quarter after quarter, for the last 20-some months, we said that the world is in flux, that the recovery is uneven, that uncertainty is the new normal.",
+     "At the Alphabet level, in the first quarter, based on current spot rates, we expect the foreign exchange impact on reported revenues to be a headwind."
+    ],
+    [
+     "Then in addition, as we mentioned on the third quarter earnings call, we continue to experience a headwind from ATT primarily in direct response.",
+     "The first one, Ruth, wondering, could you talk to us at all about sort of the shape of the ad business growth throughout the first quarter, understanding there's some uncertainty around Ukraine, etc.?",
+     "Some of the statements that we make today regarding our business, operations, and financial performance may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+     "So we're excited about the new opportunities with Shorts, but a slight headwind.",
+     "In other -- Americas, it was much more about the FX headwind more than anything else."
+    ],
+    [
+     "Within other revenues in the third quarter, we expect an ongoing headwind from the fee changes and the slowdown in buyer spend that impacted results in the second quarter.",
+     "We also saw a slowdown in buyer spend due to a number of factors, including lower engagement levels compared with earlier stages of the pandemic.",
+     "The war was a modest headwind to year-on-year and sequential growth.",
+     "Some of the statements that we make today regarding our business, operations and financial performance may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+     "So some of the biggest retailers in the world like Walmart are really struggling and are looking to cut costs and sounded to me from what Ruth just said about supply chain inventory inflation that they might be cutting on YouTube."
+    ],
+    [
+     "Within other revenues, we expect an ongoing headwind from the slowdown in buyer spend on Google Play due to a number of factors, including lower levels of user engagement in gaming that impacted results in the second and third quarters.",
+     "We continued to experience a slight headwind to revenues as Shorts viewership grew as a percentage of total YouTube watch time.",
+     "The sequential deceleration in the year-on-year growth of Search in the third quarter versus the second quarter was also driven by lapping with an additional headwind from pullback in advertiser spend in some areas.",
+     "Some of the statements that we make today regarding our business, operations and financial performance may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+     "Our results in the third quarter reflect an increased headwind from foreign exchange, given the ongoing strengthening of the U.S.\ndollar versus last year."
+    ],
+    [
+     "Some of the statements that we make today regarding our business, operations and financial performance may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+     "Second, foreign exchange headwinds grew throughout the year.",
+     "Offsetting growth in these two areas was a year-on-year decline in Play revenues, reflecting a particularly large foreign exchange headwind in APAC, as well as the impact of reductions of Play Store fees.",
+     "It's kind of almost back to '09 recession levels.",
+     "Google Services revenues of $68 billion were down 2% year on year, negatively affected by sizable foreign exchange headwind."
+    ]
+   ],
+   "competition": [
+    [
+     "Sundar, first, you've highlighted for years that machine learning is clearly a strength and differentiation of the overall platform, including in cloud services where we're also seeing competitors focus more on their capabilities here."
+    ],
+    [],
+    [],
+    [
+     "We believe new auto scaling in our Kubernetes engine, which allows customers to run 15,000 node clusters outscales the competition by up to 10 times."
+    ],
+    [
+     "On YouTube, I think what we're hearing is that there's emerging concern that TikTok is a competitor to YouTube's mobile position."
+    ],
+    [],
+    [],
+    [
+     "The charges reflect ongoing pricing pressures and changes in expected future inventory needs."
+    ]
+   ],
+   "liquidity": [
+    [
+     "The lapping of the allowance for credit losses, the benefit from depreciation life, and then there were certain things that were due to COVID just the lower impact for things like T&E and marketing.",
+     "And so as you said, there were a couple of things that benefited margins in the quarter, both the depreciation expense item, but also lapping the unusually high allowance for credit losses that were recorded back in the first quarter."
+    ],
+    [
+     "And what's nice is that we're seeing more advertisers leveraging Brand to create demand and Direct Response to convert it."
+    ],
+    [
+     "Android 12 is secured by default and private by design."
+    ],
+    [
+     "and then what it's going to take to really show a good leverage there.",
+     "And we're delivering -- or are we delivering the most relevant uses by leveraging our users' signals?"
+    ],
+    [],
+    [
+     "Customers are transforming their businesses, utilizing GCP's secure infrastructure with data, analytics and AI capabilities, uncovering real-time insights and leveraging the collaborative tools of Workspace.",
+     "By leveraging its creative assets and showing them at scale, Rothy's reached more customers in a way they hadn't been able to do before."
+    ],
+    [],
+    [
+     "Pixel's doing quite well, but it seems like there have been issues around other areas with this inventory write-down."
+    ]
+   ],
+   "cyber": [
+    [],
+    [
+     "First, the increase in cyber and ransomware attacks is a wakeup call for the industry.",
+     "This approach and other security solutions help customers minimize the impact of cyber attacks and prevent them completely.",
+     "Cyber threats increasingly is in the mind of not just CIOs but CEOs across our partners."
+    ],
+    [],
+    [
+     "Chronicle and security command center help organizations detect and protect themselves from cyber threats."
+    ],
+    [
+     "We also announced our intent to acquire Mandiant, a leader in dynamic cyber defense and response, to help protect customers from the most advanced threats."
+    ],
+    [],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   452,
+   445,
+   517,
+   542,
+   342,
+   472,
+   496,
+   454
+  ]
+ },
+ "IBM": {
+  "quarters": [
+   "2021-Q1",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4"
+  ],
+  "counts": {
+   "regulatory": [
+    3,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "supply_chain": [
+    0,
+    1,
+    0,
+    1,
+    5,
+    1,
+    1,
+    2
+   ],
+   "macro": [
+    5,
+    5,
+    4,
+    8,
+    14,
+    9,
+    13,
+    13
+   ],
+   "competition": [
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "liquidity": [
+    11,
+    14,
+    9,
+    9,
+    6,
+    7,
+    11,
+    17
+   ],
+   "cyber": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    5
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [
+     "Finally, in addition to establishing a name, headquarters location, and expanding the leadership team, we continue to make good progress on executing the necessary financial, legal and regulatory milestones to enable the transaction.",
+     "Clients also purchased z15 for its enterprise-grade security and unmatched reliability for regulatory requirements.",
+     "But I'll tell you we're also seeing changing regulatory requirements, clients needing backup, and recovery is very essential right now."
+    ],
+    [
+     "They have multiple public clouds, private clouds, on-premise workloads and are dealing with stringent regulatory and security requirements.",
+     "At the same time, we are making solid progress executing on the necessary financial, legal and regulatory milestones to enable the transaction."
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Among the new z16 capabilities, clients are leveraging cyber resiliency to comply with business regulations and proactively avoid outages in their operation and the new on-chip AI accelerator, for example, has been helping mitigate risk and detect fraud in credit card application processes."
+    ]
+   ],
+   "supply_chain": [
+    [],
+    [
+     "And also, are you seeing any impact from labor shortages and wage increases, particularly in the services business?"
+    ],
+    [],
+    [
+     "But I don't believe that the skill shortage is because of COVID."
+    ],
+    [
+     "Our working capital actually was a use of cash in the first quarter as we prudently built up our inventory position, just given the supply chain disruption going on in the marketplace we secured our supply for the anticipated z16.",
+     "Harnessing the power of technologies such as hybrid cloud and AI remains essential as our clients face a number of strategic challenges and opportunities, whether it's competing for talent, supply chain issues, inflation, cybersecurity or geopolitical instability.",
+     "But if we look at it as being one of the primary ways to address the labor demographics issue, meaning the shortage of high-skill labor that is there pretty much globally, then we believe that that actually continues even in a difficult environment because it gives our clients a way to go address that.",
+     "And so consequently, I think that because of that, because there is shortage of technical talent in the world, it will continue to go well even in a constrained economic.",
+     "And our solutions are resonating with clients as they address growing complexity, digital shifts and skill shortages across their businesses."
+    ],
+    [
+     "It serves as both a deflationary force and a force multiplier and is especially critical as clients face challenges on multiple fronts from supply chain bottlenecks to demographic shifts."
+    ],
+    [
+     "Clients are dealing with everything from inflation to demographic shifts, from supply chain bottlenecks to sustainability efforts."
+    ],
+    [
+     "Over the last several quarters, it has become clear that technology is playing a significant role in boosting productivity in the face of inflation, demographic shifts, supply chain challenges, and sustainability requirements.",
+     "As they are to emerge stronger, that means they're all deploying technology to help offset wage inflation, cyber issues, supply chain challenges, and all the demographic shifts, meaning there's just fewer skilled people to hire."
+    ]
+   ],
+   "macro": [
+    [
+     "We had traction in areas like financial services, where robust market volatility drove demand for increased capacity.",
+     "So once we get through that cash tax headwind here, we feel pretty comfortable and confident in that cash generation machine, leveraging sustainable revenue growth and operating leverage in the business on our way to $12 billion to $13 billion next year.",
+     "Now we reiterated that we're going to grow revenue overall for the year, and that is despite currency volatility, again, with the U.S.\ndollar appreciating 90 days ago.",
+     "But we also expect over half of the $1 billion full-year cash tax headwind I mentioned in January to hit in the second quarter.",
+     "But that is going to be needed in 2021 because we got about $1 billion cash tax headwind with all of that in front of us."
+    ],
+    [
+     "This quarter, financial services continue to drive IBM Z, given capacity requirements to address robust market volatility.",
+     "This $3.8 billion of adjusted free cash flow was up slightly year-to-year with growth in our underlying business performance offset by about $700 million of the $1 billion full-year cash tax headwind we discussed last quarter.",
+     "Pretax profit margin was down, reflecting a mix headwind given where we are in the z15 product cycle.",
+     "In '20 and '21, you're going to continue to see the headwind as we've been saying.",
+     "And we feel very good about where our adjusted free cash flow is through the first half, it's up year to year, really taking into account most of the cash tax headwind we talked about 90 days ago is pretty much behind us going forward."
+    ],
+    [
+     "Perhaps you could share with us just how much of a headwind it's been and which segments it's impacted most.\nThanks.",
+     "Our adjusted free cash flow over the last year is up about $300 million with growth in our underlying business performance mitigated by a cash tax headwind.",
+     "But I'll remind you, the U.S. dollar continues to strengthen and would be a 1- to 2-point headwind to growth based on current spot rates.",
+     "And as Jim just mentioned in answers to the prior question that, yes, when you do have inflation in your labor cost, there is an element of it that's going to price through for that side of the business."
+    ],
+    [
+     "But as you think about the stock market volatility over the last several weeks, is there any reason to believe that there could be some near-term cyclical impact from that volatility?",
+     "So, I suspect -- look, we are not as much expert on this as many of you on this call, but I would suspect that this volatility we are seeing recently will not have much of an impact.",
+     "Look, Katy, I mean, like if I react to every stock market intraday volatility, that's a full-time occupation.",
+     "In terms of tax, we expect a mid- to high-teens tax rate, which is a headwind to our profit growth.",
+     "Currency dynamics, unfortunately, will be a headwind."
+    ],
+    [
+     "When I say constrained, I mean, if we enter what I'll call a mild recession or a quick recession.",
+     "Harnessing the power of technologies such as hybrid cloud and AI remains essential as our clients face a number of strategic challenges and opportunities, whether it's competing for talent, supply chain issues, inflation, cybersecurity or geopolitical instability.",
+     "Even if GDP falls to flat or if there's a quick recession or if it's a very slight recession, we see demand staying strong and continuing.",
+     "You're maintaining your free cash flow guide despite the incremental headwinds from FX and some of the other macro elements you pointed to, including Russia, Ukraine.",
+     "That was partially offset, I guess, by a slowdown in automation a bit."
+    ],
+    [
+     "With the significant movement of the U.S. dollar as compared to nearly every currency, at mid-July spot rates, currency translation will now be about a six-point headwind to revenue growth for the year.",
+     "So, when you look at the lasting relevance of a U.S. dollar appreciation, eventually, what hedging does is it mitigates volatility in the near term.",
+     "So, maybe it's a $100 million headwind.",
+     "So, from the supply side, hiring, attrition, wage inflation changing or stabilizing.",
+     "It acts as a counterbalance to all of the inflation and all of the labor demographics that people are facing all over the globe."
+    ],
+    [
+     "Where are we going to get that headwind/tailwind?",
+     "We've got a headwind on the U.S. dollar until it stabilizes.",
+     "We expect strong free cash flow performance in the fourth quarter while we continue to face some external headwinds, including appreciation of the U.S.\ndollar and exit of our Russia operations.",
+     "Now to your point on interest rates.",
+     "No, I would just add to the last point on the interest rate environment."
+    ],
+    [
+     "And I'll acknowledge an inflation as in wage inflation showed up and impacted our margins in consulting a lot more than we were expecting.",
+     "Yes, we'll get modest structural actions tailwind, but they're going to be offset by a cash tax headwind for the year.",
+     "With the movement of spot rates over the last 90 days, currency translation would be fairly neutral to revenue in 2023 with a headwind in the first half, flipping to a tailwind in the second.",
+     "We were not expecting the currency headwinds to be as severe as it turned out to be.",
+     "They all want to leverage far more technology than they have before to counteract the wage inflation and other inflationary aspects."
+    ]
+   ],
+   "competition": [
+    [
+     "Let me -- I'm not going to talk to other competitors, but I would go check some of those about how much share buyback that they're all doing overall."
+    ],
+    [],
+    [
+     "It contains these ways to be able to do some competition without even moving the data."
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Second, when deep mind from Google or Alphabet started winning competitions around, for example, GO, and that became another big moment along with the protein folding that they did and now with OpenAI and ChatGPT."
+    ]
+   ],
+   "liquidity": [
+    [
+     "We continue to improve the fundamentals of our business model with operating leverage enabling a higher level of investment, and we have a strong balance sheet and liquidity position.",
+     "So once we get through that cash tax headwind here, we feel pretty comfortable and confident in that cash generation machine, leveraging sustainable revenue growth and operating leverage in the business on our way to $12 billion to $13 billion next year.",
+     "Within consulting, we had double-digit growth in offerings, which leverage data and AI to transform client processes in areas like finance and supply chain.",
+     "We have over a $6 billion book of business in cloud and GBS alone, leveraging our strength in application modernization and our cloud transformational services built on top of our Red Hat hybrid cloud platform.",
+     "We had broad-based growth in areas such as finance and talent and transformation as clients leverage hybrid cloud to scale their activities to capture productivity and gain insights."
+    ],
+    [
+     "We have seen signings and revenue momentum in both business transformation services, which leverage our combined consulting, BPO and core ERP capabilities as well as the application modernization and management services we provide around the hybrid cloud platforms of our clients.",
+     "We grew profit dollars with operating leverage from revenue growth, while we continue to invest in new innovations and our ecosystem.",
+     "They are pleased to co-innovate with IBM, leverage our Garage methodology and derive value more quickly from our solutions.",
+     "These are end-to-end offerings, which leverage hybrid cloud and AI to transform client processes.",
+     "So our team is wise on adjusted free cash flow, which is really going to be a reflection of both top line revenue acceleration and operating leverage and margin as we move forward."
+    ],
+    [
+     "We're leveraging our skills and ecosystem partners to transform our clients' business processes and modernize applications based on OpenShift.",
+     "We will leverage this solution to inform management as we take action to reach this goal.",
+     "We leverage our incumbency, IBM technology, and strategic partnerships to modernize their applications and digitally transform their businesses at scale.",
+     "This quarter, we continued to leverage our ecosystem to drive what we described at our investor briefing as a flywheel of growth.",
+     "The new hub will help Credit Mutuel leverage AI, data, cloud, and IBM Z. Also announced a new agreement with CaixaBank, one of the largest banks in Europe, to boost its digital capabilities with IBM Cloud for Financial Services and the new IBM Cloud Multizone Region in Spain."
+    ],
+    [
+     "Within these solutions, clients are leveraging our AI to ensure AI models are governed to operate in a fair and transparent manner.",
+     "We said we're going to get an operating leverage improvement of about 4 points.",
+     "We leverage hybrid cloud with Red Hat OpenShift and work with providers, such as AWS and Azure, in addition to IBM Cloud.",
+     "To enable this, we leverage skills and capabilities in IBM technologies and with strategic ecosystem partners such as SAP, Salesforce, and Adobe.",
+     "This reality of technology being about a lot more than cost will persist and explains why clients are eager to leverage hybrid cloud and artificial intelligence to move their business forward."
+    ],
+    [
+     "With the more streamlined business, we're getting operating leverage from strong revenue performance.",
+     "We have strengthened our portfolio, we are leveraging our ecosystem and we are streamlining our business.",
+     "So, growing IBM both with incremental sales of Kyndryl and with our broader client base on the back end of a mainframe product cycle, we're pretty pleased with the operating leverage we see in our business.",
+     "Moving to Consulting profit, our pre-tax margin expanded about 1 point, delivering operating leverage and benefiting from IBM's more streamlined G&A and go-to-market structure.",
+     "Looking at software profit, we delivered operating leverage given the strong and broad-based revenue performance this quarter."
+    ],
+    [
+     "We see continued operating leverage out of our business.",
+     "We delivered operating leverage given the solid revenue growth and new Kyndryl commercial relationship.",
+     "We are seeing growth in new workloads like Linux and demand for AI capabilities like real-time fraud detection, leveraging the on-chip AI accelerator.",
+     "To accomplish this, companies need to leverage AI and to turn the mountains of data they collect into sustainable action.",
+     "So, in an inflationary environment when clients take our technology, deploy it, leverage our consulting."
+    ],
+    [
+     "Yes, it's going to deliver that free cash flow in the fourth quarter, but it also gives the investor a perspective now that we're basically anniversary-ing the year-to-year contribution of Kyndryl, you see the healthy operating leverage at this portfolio now that we reposition can deliver.",
+     "When I talk with clients, it's clear there's a real opportunity to help businesses leverage technology in today's environment.",
+     "We leverage AI to help predict problems before they happen and monitor our clients' different environments with dashboards, enabling action to be taken quickly.",
+     "We ended the quarter in a strong liquidity position with cash of $9.7 billion.",
+     "They are leveraging technology to scale their business."
+    ],
+    [
+     "If I think about data and AI, our focus on data fabric and allowing our clients to leverage the data wherever it is, not always moving it but allowing them to catalog it, leveraging AI deep inside our products is another example of where we have a unique capability.",
+     "And if we think about how we can leverage the inputs from all kinds of sources in these days and people are really worried about all of the threats coming, whether from nation-states or from just bad actors, then it allows them to leverage that portfolio better.",
+     "With operating leverage, we'd expect operating pre-tax margin to expand 50 to 100 basis points in the first quarter.",
+     "We are helping Delta Airlines leverage hybrid cloud to modernize options, automate operations and integrate security.",
+     "We also formed a collaboration with the Japanese consortium, Rapidus, to leverage the depth of our intellectual property on advanced semiconductors."
+    ]
+   ],
+   "cyber": [
+    [
+     "And clients opted for accelerated time to value and ease of operation with QRadar on cloud to rapidly detect cybersecurity tax and network breaches."
+    ],
+    [
+     "With the acceleration of cybersecurity attacks, clients are increasingly looking for modernized security platforms to detect and respond to ransomware and other attacks."
+    ],
+    [],
+    [],
+    [
+     "Arvind commented on the three differentiated capabilities of z16; embedded AI at scale, cyber-resilient security and cloud-native development for hybrid cloud."
+    ],
+    [
+     "As Arvind mentioned, z16 brings the power of embedded AI at scale, cyber-resilient security, and cloud-native development for hybrid cloud to our clients."
+    ],
+    [
+     "This latest program combines embedded AI at scale, cloud-native development for hybrid cloud, and cyber resilience security."
+    ],
+    [
+     "Among the new z16 capabilities, clients are leveraging cyber resiliency to comply with business regulations and proactively avoid outages in their operation and the new on-chip AI accelerator, for example, has been helping mitigate risk and detect fraud in credit card application processes.",
+     "We're helping clients detect, prevent, and respond to security incidents, which led to strength across threat management, data security, and identity.",
+     "Let me talk a little bit about the product capabilities and as you said, outside Red Hat called focus on automation, data, AI, and cyber.",
+     "As they are to emerge stronger, that means they're all deploying technology to help offset wage inflation, cyber issues, supply chain challenges, and all the demographic shifts, meaning there's just fewer skilled people to hire.",
+     "And third, if I look at cyber, we focus a lot on threat management."
+    ]
+   ]
+  },
+  "total_sentences": [
+   627,
+   575,
+   560,
+   524,
+   586,
+   554,
+   552,
+   566
+  ]
+ },
+ "INTC": {
+  "quarters": [
+   "2021-Q1",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4"
+  ],
+  "counts": {
+   "regulatory": [
+    1,
+    0,
+    6,
+    0,
+    1,
+    1,
+    1,
+    0
+   ],
+   "supply_chain": [
+    9,
+    10,
+    9,
+    10,
+    9,
+    5,
+    1,
+    0
+   ],
+   "macro": [
+    2,
+    6,
+    2,
+    3,
+    8,
+    12,
+    16,
+    18
+   ],
+   "competition": [
+    1,
+    1,
+    2,
+    3,
+    0,
+    3,
+    2,
+    4
+   ],
+   "liquidity": [
+    3,
+    1,
+    10,
+    2,
+    3,
+    4,
+    3,
+    2
+   ],
+   "cyber": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [
+     "Note that these non-GAAP results exclude the impact of a charge related to VLSI litigation that are included in GAAP results."
+    ],
+    [],
+    [
+     "These results were slightly below expectations due to industrywide component supply constraints that primarily impacted our enterprise customers and areas of softness in PRC, including cloud, as customers adapt to new regulations.",
+     "Stacy Rasgon -- Sanford C. Bernstein -- Analyst\nAre those China regulatory issues permanent, you know?",
+     "Pat Gelsinger -- Chief Executive Officer\nYou know, as you might have seen, there's been some regulatory questions around gaming in China, right?",
+     "I remain confident about the long term of the data center despite regulatory changes in China and short-term ecosystem supply constraints impacting some customers.",
+     "And all of the cloud vendors are adjusting their offerings to meet that new regulatory environment."
+    ],
+    [],
+    [
+     "We have completed regulatory review in two jurisdictions outside the U.S. and hope to close the transaction as soon as possible."
+    ],
+    [
+     "We now have regulatory approval or clearance in four geographies, including the U.S., and we still expect the acquisition to close by early next year."
+    ],
+    [
+     "Now what shape those will take, what the timing of those will be, what will be the trigger points that would position such moves, and as you said, there's many factors associated with that in terms of regulatory, legal, financial steps associated with it."
+    ],
+    []
+   ],
+   "supply_chain": [
+    [
+     "We've doubled our internal wafer capacity in the last few years, but the industry is now challenged by a shortage of foundry capacity, substrates, and components.",
+     "We've been responding to and proactively engaging with automotive component suppliers on how we can help them with their supply chains and alleviate shortages in both the near and long term.",
+     "We expect it will take a couple of years for the ecosystem to make the significant investments to address these shortages.",
+     "We continue to see very strong demand for PCs with fulfillment challenges on industrywide component and substrate shortages.",
+     "We are working closely with our supply chain partners and leveraging our unique IDM capabilities to mitigate these supply constraints, gain market segment share, and outperform this guide."
+    ],
+    [
+     "Obviously, when you bring on a new foundry customer, as you look at the lead times that are needed for that and the lead times that are needed to actually do the most expensive part of adding to your capacity, those things actually line up pretty well.",
+     "While I expect the shortages to bottom out in the second half, it will take another one to two years before the industry is able to completely catch up with demand.",
+     "We expect supply shortages to continue for several quarters but appear to be particularly acute for client in Q3.",
+     "The ecosystem is back to shipping over 1 million PC units a day despite grappling with component shortages.",
+     "PSG revenue was $486 million, down 3% year over year due to significant supply constraints."
+    ],
+    [
+     "We see revenue in 2022 of at least $74 billion despite ongoing supply constraints.",
+     "These results were slightly below expectations due to industrywide component supply constraints that primarily impacted our enterprise customers and areas of softness in PRC, including cloud, as customers adapt to new regulations.",
+     "Q3 revenue was $18.1 billion, slightly below our guide due to shipping and supply constraints that impacted our businesses.",
+     "PC demand remains very strong, and we believe the 2021 TAM will grow double digits even as ecosystem shortages constrain our customers' ability to ship finished systems.",
+     "I remain confident about the long term of the data center despite regulatory changes in China and short-term ecosystem supply constraints impacting some customers."
+    ],
+    [
+     "This unprecedented demand continues to be tempered by supply chain constraints as shortages in substrates, components, and foundry silicon has limited our customers' ability to ship finished systems.",
+     "what we're hearing from our customers is that the momentum in E&G continues in the next year with very strong backlog positions, and it would have been even stronger had it not been for other supply constraints and match sets that we see.",
+     "The industry will continue to see challenges in a variety of areas, including specialty and overall foundry shortages, substrates, as well as third-party silicon.",
+     "PSG delivered $484 million in Q4 revenue, up 15% year over year and up slightly quarter over quarter as industrywide supply constraints continue to severely limit revenue growth.",
+     "Overall, we would just say that supply constraints, we just have a lot of catching up to do in building out the capital footprint."
+    ],
+    [
+     "We see strong growth in our particularly those areas, those are long lead time businesses with our customers.",
+     "We are on track to do exactly what we said at the Investor Day, and we're building momentum to accomplish exactly that, with the great execution that we saw in the first quarter around products, around manufacturing, around dealing with supply chain challenges.",
+     "Using our IDM advantage, the team was able to remix almost 3 million units within lead time to meet changing demand signals.",
+     "The chip shortage costs the U.S. economy $240 billion last year and we expect the industry will continue to see challenges until at least 2024 in areas like foundry capacity and tool availability.",
+     "So we are hopeful that we'll be able to do a bit better in that area if we are able to address some of the shortages that we've seen in areas like Ethernet."
+    ],
+    [
+     "Would love to hear what gives you confidence that inventory correction and the supply chain issues will be behind you.",
+     "In Q2, we started to ramp Intel Art Graphics for laptops and OEMs, including Samsung, Lenovo, Acer, HP, and Asus.\nCOVID-related supply chain issues and our own software readiness challenges caused the availability delays that we continue to work to overcome.",
+     "IFS revenue was $122 million, down 54% year over year, driven by lower mass tool sales, as well as revenue decrease in the automotive segment due to customer shortages in the automotive market.",
+     "At this point, I think given the long lead times of building out these factories, we're very confident that the growth rates of our markets are going to be quite healthy, and we're going to need the supply to come online.",
+     "Across the economy, supply chain issues have both limited the ability to meet demand in some areas and driven inventory well above normal levels in others."
+    ],
+    [
+     "IFS revenue was $171 million, down 2% year over year, driven by automotive weakness with customers citing third-party component shortages, partially offset by growth in core foundry and IMS businesses."
+    ],
+    []
+   ],
+   "macro": [
+    [
+     "In a moment, we'll hear brief remarks from both followed by Q&A. Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it and as such, does include risks and uncertainties.",
+     "As stated in March, this guide is tempered by DCG-related entity list uncertainty and industrywide supply constraints primarily impacting our client, IOTG, and PSG businesses."
+    ],
+    [
+     "Since April, we have seen supply chain inflation happening faster than we are electing to pass-through to our customers, further impacting our second-half gross margin outlook.",
+     "Mobileye revenue was $327 million, up 124% year over year but down sequentially due to COVID-related slowdowns at automotive OEMs.",
+     "Just a year ago, we were very -- just three years ago, there was grave geopolitical concerns around 5G and would there ever be flexibility for how that would get deployed nationally.",
+     "In a moment, we'll have brief remarks from both followed by Q&A. Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it and, as such, it does include risks and uncertainties.",
+     "George, you talked about PRQ reserves related to Alder Lake being a headwind this quarter."
+    ],
+    [
+     "We had record third-quarter revenue in DCG and Mobileye, while IOTG had an all-time record as it continued its recovery from COVID slowdowns.",
+     "In a moment, we'll have brief remarks from both followed by Q&A. Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, it does include risks and uncertainties."
+    ],
+    [
+     "In a moment, we'll have brief remarks from Pat and Dave followed by Q&A.\nBefore we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, it does include risks and uncertainties.",
+     "I mean, I see the headwinds that you talked about, but I'm wondering if there are any tailwinds or mix-related impacts as well.",
+     "And ultimately, the ROI on all the investments we're making that drive headwinds in the gross margins for the first quarter will turn around and drive a very good ROI down the road."
+    ],
+    [
+     "Q1 was a solid quarter, exceeding revenue, gross margin percentage, and EPS guidance despite continued ecosystem supply chain constraints, inflationary pressures, and macroeconomic uncertainty.",
+     "We are seeing particular strength in gaming and in commercial PCs that is somewhat tempered by slower consumer inflationary pressure and customer inventory management, which Dave will talk more to later.",
+     "Note that the inflationary environment creates a headwind that we are continuing to monitor but we remain confident in our ability to mitigate the impact through continued cost reduction programs as well as increased pricing in certain segments of the business.",
+     "In a moment, we'll have brief remarks from both of them, followed by Q&A. Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, it does include risks and uncertainties.",
+     "Here, too, we are seeing ecosystem supply constraints, particularly in Ethernet that have limited end system shipments, which we expect to be a headwind through the year."
+    ],
+    [
+     "First, a weakening and uncertain macroeconomic environment impacted by inflation, higher interest rates and the war in Ukraine.",
+     "What remains very clear even during this period of uncertainty is the growing importance of silicon to the global economy and to each of our daily lives.",
+     "We do see an opportunity in the client space, given our Alder Lake position for pricing increases that are really passing on inflation, and we know customers understand that.",
+     "We are prepared to manage through a slowdown typical of the normal cycles the semiconductor industry has experienced over the last 50 years.",
+     "We are planning for volatility as the world adjusts to the end of a two-plus year pandemic and the unprecedented stimulus governments used to fight it."
+    ],
+    [
+     "Beyond Q4, there's a high degree of macroeconomic uncertainty, and it appears that the current challenging market environment will extend well into 2023 with the potential for a global recession.",
+     "We're prepared for the economic headwinds.",
+     "We will continue to be laser-focused on the things that we can control and use economic uncertainty to accelerate our transformation and drive cost cutting and efficiency gains.",
+     "We had a solid third quarter despite the macroeconomic headwinds impacting the semiconductor industry.",
+     "We expect these headwinds to persist and as a result, we're lowering our expectations for the fourth quarter."
+    ],
+    [
+     "To various degrees, all our markets are being impacted by macro uncertainty, rising interest rates, geopolitical tensions in Europe and COVID impacts in Asia, especially in China.",
+     "Q4 revenue came in at the low end of guide and was impacted by persistent macro headwinds, which began in Q2 and underscored a 2022 characterized by unprecedented volatility, which will continue in the near term.",
+     "quickly, Dave, I want to pivot to the gross margin side of things, excluding the change in the depreciable life side of the equation, I know revenue is the biggest headwind right now.",
+     "Would love to get a sense of how kind of the slowdown here is potentially changing or potentially not your strategy of spending?",
+     "While it was important to focus on what we are doing to address the current macro uncertainty, it is also important to highlight that despite disappointing financial results, calendar year '22 did see considerable progress toward our transformation."
+    ]
+   ],
+   "competition": [
+    [
+     "And I'll say, competitors aren't able to catch up with demand in this area and factories take a long time to build."
+    ],
+    [
+     "Competitive dynamics need to catch up on the manufacturing side, so you have headwinds there, people customizing more cloud competition internally."
+    ],
+    [
+     "This will also enable a more level playing field with our competitors who enjoy significant support from their governments.",
+     "Like what impact was competition or anything else here?"
+    ],
+    [
+     "We expect that our Xeon shipments in December alone exceeded the total server CPU shipments by any single competitor for all of 2021.",
+     "Full-year revenue was down 1% due to a slower-than-expected recovery earlier in the year, as well as competitive pressure, partially offset by stronger enterprise and government and communications service provider demand.",
+     "And then longer-term impact, how do we reconcile that your main competitor who is kind of just fabless is pretty much at the same gross margins without having to spend any of the capex that Intel plans to spend?"
+    ],
+    [],
+    [
+     "They said, \"Oh, Intel 4, it looks as good as some of the three-nanometer competitors.\"",
+     "I'm sure our competitors have done teardowns on it, done.",
+     "DCAI revenue was $4.6 billion, below expectations and down 16% year over year on OEM inventory reductions, mix-related ASP decline and competitive pressures."
+    ],
+    [
+     "So if you could give us a status report there on sort of the gate all-around RibbonFET progress you see versus competition?",
+     "DCAI revenue was $4.2 billion, down 27% year over year on TAM reductions and continued competitive pressures even as market share continues to track in line with our expectations."
+    ],
+    [
+     "The networking space is one where we have very sustained leadership and strength in areas like vRAN and O-RAN are ones that our platform is dramatically better than competitors.",
+     "DCAI revenue was $4.3 billion in Q4, up 2% sequentially with higher ASPs offsetting demand softness and down 33% year over year driven by TAM contraction and competitive pressure.",
+     "And with our stronger exposure in those segments, we believe that is a potential good news for us as we go through the year relative to competition.",
+     "And right now, your competitor seems to be becoming a larger incumbent in a lot of cloud deployments doesn't seem to be messing up."
+    ]
+   ],
+   "liquidity": [
+    [
+     "With IDM 2.0, we will have superior capacity and supply resilience by leveraging our internal and external capacity and a superior cost structure.",
+     "We are working closely with our supply chain partners and leveraging our unique IDM capabilities to mitigate these supply constraints, gain market segment share, and outperform this guide.",
+     "Leveraging our IDM advantage, we are working aggressively across our global supply chain to solve substrate shortages to satisfy our customers' surging demand and gain market share."
+    ],
+    [
+     "And then, the final thing that caught my attention was on the substrate side, you said you were kind of leveraging that back end to moderate market share."
+    ],
+    [
+     "Second, we will make effective use of external foundries, leveraging some of their unique capabilities to ensure we are delivering leadership products.",
+     "Many of our AFP blocks, as we open up the x86 architecture for increasing innovation, we get to leverage enormous amounts of R&D for new monetization opportunities.",
+     "It allows us to leverage the R&D investments that we have in process technology to more markets.",
+     "In this quarter, we announced that key products such as Media Lake and Ponte Vecchio will leverage third parties for some of their tiles.",
+     "IFS will enable Intel to grow faster, expand monetization of our process and packaging capabilities, leverage our design IPs more broadly and provide sustainable, superior cash flows from our assets."
+    ],
+    [
+     "We will lay out details on how we are leveraging our core strengths to accelerate our plans and how we are uniquely positioned to create value.",
+     "But it also is leveraging the smart cap strategy that we've laid out, where, boy, I lost for having a free shell today that we could be ramping into."
+    ],
+    [
+     "So and -- so if you think about that taken together, we'll be competing in the integrated graphics, the discrete graphics, the GPU business, the high-performance computing business will really be leveraging that technology across the entire space of the market.",
+     "So IDM 2.0, well leveraging the foundries, but even more importantly, building leadership technologies with that scale manufacturing to deliver the most robust product line in the industry.",
+     "Our accelerated computing systems and graphics group builds on our installed base of CPUs, IP, and software and leverages a thriving open ecosystem to disrupt a large and growing market."
+    ],
+    [
+     "We thought that we would be able to leverage the integrated graphics software stack, and it was wholly inadequate for the performance levels, gaming compatibility, etc., that we needed.",
+     "We rapidly adjusted to changing market conditions, made cost reductions and leveraged smart capital to execute toward our IDM 2.0 strategy.",
+     "Our balance sheet remains strong with cash and investments of $27.5 billion, modest leverage and a strong investment-grade credit profile.",
+     "For example, we expanded our supply agreement with Meta, leveraging our IDM advantage to ensure Meta can meet its expanding compute needs."
+    ],
+    [
+     "Our balance sheet remains strong with cash balances of $23 billion, modest leverage and a strong investment-grade credit profile.",
+     "Leveraging third-party IP more aggressively will make us more efficient.",
+     "And when I describe the three value vectors that I'm expecting to continue to really leverage around this technology collaboration, co-optimization of the microprocessor with the process technology is one that's high on that list."
+    ],
+    [
+     "Our balance sheet remains strong with cash and investment balances of more than $28 billion, modest leverage and a strong investment-grade profile.",
+     "Disaggregated CPU architecture allows performance and cost optimization for each chiplet better leveraging older nodes."
+    ]
+   ],
+   "cyber": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "vPro offers industry-leading manageability and security for business, including the first and only hardware-based ransomware detector with Intel Threat Detection."
+    ],
+    [],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   522,
+   506,
+   538,
+   524,
+   504,
+   577,
+   517,
+   573
+  ]
+ },
+ "JPM": {
+  "quarters": [
+   "2020-Q4",
+   "2021-Q1",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q1",
+   "2022-Q2",
+   "2022-Q3"
+  ],
+  "counts": {
+   "regulatory": [
+    9,
+    2,
+    1,
+    4,
+    2,
+    3,
+    5,
+    2
+   ],
+   "supply_chain": [
+    0,
+    0,
+    1,
+    3,
+    1,
+    1,
+    0,
+    0
+   ],
+   "macro": [
+    13,
+    5,
+    26,
+    13,
+    23,
+    25,
+    25,
+    29
+   ],
+   "competition": [
+    17,
+    0,
+    7,
+    1,
+    10,
+    0,
+    0,
+    0
+   ],
+   "liquidity": [
+    22,
+    14,
+    8,
+    16,
+    9,
+    9,
+    6,
+    13
+   ],
+   "cyber": [
+    3,
+    0,
+    0,
+    0,
+    2,
+    2,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [
+     "You know, when -- what the regulator will do, I don't know, but we have to assume that they are going to do it.",
+     "We are going to -- we have to do a whole bunch of new regulators, which we are trying to satisfy in the ECB, etc.",
+     "The regulators may have a point of view about that one day, but I am less worried about that.",
+     "So I do expect that there will be a new set of regulators.",
+     "Can you guys share with us, obviously, there's been a change in the administration in the Senate and a number of our regulatory body heads are going to be replaced this year, including the FCC and the Consumer Protection Bureau."
+    ],
+    [
+     "And then just if you have any updates or thoughts on potential changes that regulators are discussing to kind of give maybe Relief 2.0 in a more permanent sense on the SLR.",
+     "And regulators should consider whether requiring banks to hold additional capital for further deposit growth is the right outcome."
+    ],
+    [
+     "And the regulators have been pretty clear that there's enough capital in the system right now, and that growth would increase that amount quite a bit for us and for everyone else."
+    ],
+    [
+     "One around fintechs and the regulatory changes, a lot of focus on the change in leadership at the regulatory agencies.",
+     "Jamie, you've talked about in the past in terms of the regulatory arbitrage when you look at big tech, nonbank players.",
+     "Do you think as we have new leadership at the regulatory agencies, they are alert to this arbitrage?",
+     "Can you share with us, from your guys' perspective, what are you focusing in on with the Basel III final rules and regulations that could affect your growth going forward?"
+    ],
+    [
+     "First, this all takes place in the context of the global regulatory community, or at least, in the U.S., saying that the system has enough capital.",
+     "About half of that is foundational and mandatory, which includes regulatory-related investments, modernization and the retirement of technical debt, in addition to other key strategic initiatives to help us face the future."
+    ],
+    [
+     "We helped our clients navigate very difficult markets, provided support to relief efforts, and implemented economic sanctions of unprecedented complexity with multiple directives from governments around the world.",
+     "So you're looking at this war in Ukraine and, you know, sanctions there.",
+     "Just briefly, just to remember that based on the redefinition, if you drop into the regulatory buffer zone, you're subject to a 60% restriction, which, based on our recent historical net income generation, still gives us like ample, ample capacity to pay the dividend and so on."
+    ],
+    [
+     "We're not going to go below any regulatory minimum.",
+     "Any access over the regulatory requirements offers us protection against a range of economic scenarios with room to deploy capital in line with our strategic priorities.",
+     "And now we spend all the time talking about these ridiculous regulatory requirements.",
+     "And just given that high regulatory minimum, elevated SCB volatility in recent years, what do you believe is an appropriate capital target for you to manage from here over the long term?",
+     "And given the new higher SCB, future increases in your G-SIB surcharge to 4.5%, your regulatory minimum is slated to increase beyond 13% by 2024, which is also beyond the horizon reflected on Slide 3."
+    ],
+    [
+     "These current targets include a 50 basis point buffer over the growing regulatory requirements, which provides flexibility over the coming quarters.",
+     "I mean, Gerard, broadly, if you just look at standard regulatory reporting of LCR ratios in the U.S. banking system, everyone just has very significant surpluses."
+    ]
+   ],
+   "supply_chain": [
+    [],
+    [],
+    [
+     "I mean, they'd be much higher, but for supply constraints right now."
+    ],
+    [
+     "We do hear a lot about supply chain issues from that customer segment.",
+     "There's not one company I know that's not working aggressively to fix their supply chain issues.",
+     "But it looks like outside of acquisition finance, C&I still seems a little weak and we've got ongoing supply chain issues."
+    ],
+    [
+     "We have a shortage of homes in America."
+    ],
+    [
+     "There's obviously a little bit of shortage of short-dated collateral in the market right now."
+    ],
+    [],
+    []
+   ],
+   "macro": [
+    [
+     "So I just wanted to pick your brains on inflation and hopefully, inflation metrics are picking up.",
+     "You know, I get it to be investment banking business, the feeder businesses still very good, there's lots of liquidity, banks have lots of capital, but of course, rates are near zero, budget tight, volatility is low.",
+     "We've experienced a combination of both lower interest rates and lower loan demand, which have reduced the NIM of marginal deposits to practically zero, which you can see here on the chart.",
+     "That -- that can change inflation.",
+     "On a full-year basis, a headwind from lower rates were almost entirely offset by robust deposit growth."
+    ],
+    [
+     "While a strong recovery seems in motion, we're also prepared for more adverse outcomes given remaining uncertainties around the impact of new virus strains and the health of the underlying labor markets.",
+     "We've always just provided that as context for everyone, particularly last year as we were managing through so much uncertainty in terms of the inputs into our reserves.",
+     "Of course, there are still risks and uncertainties ahead that we're preparing for as well as specific issues that we're facing, including the balance sheet dynamics I mentioned, the rate environment and tough year-on-year comparisons, among other things.",
+     "But if you go negative NII because you're going back into recession because there's a negative variance.",
+     "And as a reminder, while customer deleveraging and higher payment rates in card is a headwind for NII, it's a tailwind for credit."
+    ],
+    [
+     "So while $52.5 billion remains our current central case, you should expect some elevated uncertainty around that number, not only because of the ongoing impact of stimulus on consumer balance sheets, but also due to volatility coming from markets, among other things.",
+     "And that view is associated with higher inflation, along the lines of the Fed's own targets for higher inflation.",
+     "You have probably a little bit of a margin headwind looking forward.",
+     "We've got NII headwinds from the consumer delevering, as we've discussed.",
+     "We have a bit more experience with a couple of years of SCB and there's a little bit less rule uncertainty."
+    ],
+    [
+     "We still are a little bit concerned about inflation, I think relative to the consensus.",
+     "We simply are pointing out, well, first of all, you have inflation.",
+     "There may be a fat tail of inflation.",
+     "Reserves stand at $20.5 billion, which still accounts for elevated uncertainties surrounding COVID and the current labor market dynamics, including the expiration of expanded unemployment benefits.",
+     "One of the fat tails a bank should be -- the banks should be worried about is high inflation and high rates."
+    ],
+    [
+     "But the headwinds likely exceed the tailwinds as capital markets normalize off an elevated wallet, and we continue to make additional investments, as well as the impact of inflationary pressures.",
+     "You've got the fundamental review of the trading book, which is quite complicated and it's going to depend on institution by institution, but it's potentially, for some folks, a headwind.",
+     "While we haven't seen a formal proposal from the Fed, I was just hoping you could provide just some preliminary thoughts how you're handicapping the risk of higher RWA inflation ahead of Basel 4 adoption?",
+     "We're not cutting back in growth plans or bankers or markets or countries because there was some wage inflation.",
+     "So you see the table is set pretty well with -- for the growth -- with obviously, the negative being inflation and how that gets navigated and stuff like that."
+    ],
+    [
+     "We've obviously had a big move in --\nJamie Dimon -- Chairman and Chief Executive Officer\nGuys, we're just talking about interest rates going up maybe more than 3%.",
+     "We've built 902 million in reserves, driven by increasing the probability of downside risks due to high inflation and the war in Ukraine, as well as builds for Russia-associated exposures, and CIB in AWM.",
+     "We've already spoken about the enormous strength of the economy, QT, inflation, war, commodity prices.",
+     "We talked a little bit over the last couple of quarters about, at the time, some short-term headwinds to that, mostly as a function of the rate environment and a couple of other things.",
+     "So, you know, all else equal, you'll see a headwind in there as the Fed hikes come through, which, you know, in general, on the geography, we would tend to expect that to be offset in NIR."
+    ],
+    [
+     "So even we go in a recession, they're entering that recession with less leverage in far better shape than they've been -- did in '08 and '09 and far better shape than they did even in 2020.",
+     "But with companies just citing higher inventory levels, declining personal savings rates, growing inflationary pressures, whole list of potential headwinds that could negatively impact loan growth from here, I was hoping you could just speak to the outlook for loan growth across some of the different businesses?",
+     "You do see a little bit of a decline or a little bit of a headwind in wealth management.",
+     "While in consumer, while you could, in theory, have a little bit of a headwind there, we feel pretty good about our ability to keep those levels pretty steady based on the strength of the franchise and the ability to take share.",
+     "We see the impact of inflation and higher nondiscretionary spend across income segments."
+    ],
+    [
+     "And then, of course, you have inflation, higher rates, higher mortgage rates, oil volatility war.",
+     "Would appreciate any perspective in terms of are you beginning to see cracks, either be it commercial real estate, consumer where it feels like the economic pain from inflation, higher rates is beginning to filter through to your clients?",
+     "We're not doing -- we can do this to manage interest rate exposure.",
+     "We would have pretty damn good returns in a recession.",
+     "We look at everything from the Fed repo, deposit tightening to net issuance of treasury, net issuance of mortgages and treasury volatility and treasury bid-ask spreads and treasury markets and all that."
+    ]
+   ],
+   "competition": [
+    [
+     "So as long as the competition -- as always we can do it safely and competition can do then it's hard to argue this -- that's unfair.",
+     "You know, look, first of all, they are very good competitors.",
+     "We have restrictions, you know, far more restrictions than some of our Silicon Valley competitors.",
+     "We also have a tremendous debt of competitors, particularly in payments, consumer land now, and a bunch of other areas.",
+     "Some banks going to white label, which makes -- which makes fintech competitors white label the bank and build every sort of thing on top of it and we have to be prepared for that."
+    ],
+    [],
+    [
+     "While we're proud of the performance of the company and of our people through the crisis, the competition in every business from banks, fintechs and others is as intense as ever.",
+     "So when I said the lack of imagination with the whole company, I mean, when you look at some of these things, it was -- we could have imagined more why they've become the competitor down the road.",
+     "So some of these competitors are quite good at I call it buying and weaving.",
+     "I think we have huge competition in banking and shadow banking, fintech and big tech and Walmart.",
+     "I think some of these competitors are going to do quite well."
+    ],
+    [
+     "So these are all different forms of competition, which we have to respond to."
+    ],
+    [
+     "There's change street competition, there's pseudo competition, there's fintech competition, there's PayPal competition.",
+     "There's global competition, there's nonbank competitions, direct fiber lending competition.",
+     "There's it's a lot of competition, and we intend to win.",
+     "The competition, we have to face.",
+     "So taken together, our strategy and investments are critical to ensuring that we can compete with the most innovative players out there, whether we're the ones pushing the envelope of innovation or responding quickly to the creativity of our competitors but doing so at scale."
+    ],
+    [],
+    [],
+    []
+   ],
+   "liquidity": [
+    [
+     "You can see here on the page, we've included the liquidity coverage ratio for both the firm and the bank, which we believe is important to look at together in order to better understand the liquidity profile of our balance sheet.",
+     "it's the way we run the company and we do believe in -- in the importance of operating leverage through time, no doubt.",
+     "You know, I get it to be investment banking business, the feeder businesses still very good, there's lots of liquidity, banks have lots of capital, but of course, rates are near zero, budget tight, volatility is low.",
+     "You did get positive off the leverage last year during the pandemic.",
+     "While we recognize that prudent bank capital requirements do promote safety and soundness, satisfying these heightened requirements is certainly not costless which is why these two areas, GSIB and leverage are top of mind for us in 2021."
+    ],
+    [
+     "We manage -- God knows how many different capital liquidity contents.",
+     "The issue is that its leverage-based constraint that is the constraint, and we're in a low rate environment with low loan demand and very strong deposit growth.",
+     "The growth in bank leverage has been driven by deposits and therefore, cannot be cured by reducing lending.",
+     "So what are we doing with all that liquidity in the meantime?",
+     "So it's the combination of all those things that makes leverage the binding constraint, but it doesn't change the way we're thinking about acquisitions."
+    ],
+    [
+     "You mentioned leverage is now the binding constraint.",
+     "We had investment banks at 40 times leverage, not JPMorgan.",
+     "This quarter also reflects the expiration of the temporary SLR exclusions and, as we anticipated, leverage is now a binding constraint.",
+     "So if you imagine, going outside of the U.S.\nand opening branches in other countries and competing with the incumbents, just from a branding perspective, from an operating leverage perspective, we've never felt that, that was likely to be a successful strategy for us, and that hasn't really changed.",
+     "I mean the liquidity that's going to hit in July and August is substantial."
+    ],
+    [
+     "You noted this quarter's result included an adjustment to liquidity assumptions in the derivatives portfolio.",
+     "We have an extraordinary amount of capital liquidity, I mean, extraordinary.",
+     "So we are dealing with a system that has a lot of surplus liquidity.",
+     "So the sort of operating leverage that you see, especially in the type of environment that we've had with really big increases in revenue in the capital markets areas in the NIR side, is actually relatively consistent with what I would have expected.",
+     "It's just bog-standard liquidity evaluation-type stuff in the derivatives book in terms of -- as we revise our assumptions about what the potential transaction cost would be associated with transferring certain types of positions."
+    ],
+    [
+     "You're guiding for the second year in a row of negative operating leverage.",
+     "You have kind of outside operating leverage for a few years, right?",
+     "The notion of operating leverage at the level of the company's overall numbers for me becomes just not terribly meaningful.",
+     "So I think, the system this time around is flushed with deposits, is flushed with liquidity in a way that it wasn't before.",
+     "I mean, because I think the efficiency ratio goes the wrong way again in '22 for the couple of years of pretty big operating leverage, right?"
+    ],
+    [
+     "Then, in terms of the leverage ratio, just remember that the denominator of that number is so big that it actually takes like pretty big moves to move the ratio.",
+     "Jamie Dimon -- Chairman and Chief Executive Officer\nMike, I would just add, you know, if you look at liquidity and capital, it's extraordinary.",
+     "I know it's difficult to make such predictions, but maybe if you could just help us understand, given your own rate outlook, how that's been forming, how you're managing excess liquidity, given the significant capacity that you have to redeploy some of those proceeds into higher-yielding securities.",
+     "But the big picture is that the, you know, central case path is one that gets us to where we want to be when we need to be there in terms of CET1 and leverage.",
+     "Anything in there that makes you like turn a side-eye?\nJamie Dimon -- Chairman and Chief Executive Officer\nJust a spread widening and a little bit less liquidity."
+    ],
+    [
+     "If we have a recession in the next 5 to 10 months, how does technology help you manage through that better, whether it's credit losses, managing for less credit losses, expenses, more flexibility or revenues may be gaining market share?",
+     "We know that, and there are write-downs of a couple of bridge loans.",
+     "So you can actually go see what drives it, the global market shock and credit loss and stuff like that.",
+     "So even we go in a recession, they're entering that recession with less leverage in far better shape than they've been -- did in '08 and '09 and far better shape than they did even in 2020.",
+     "But given some of the potential bad stuff going on in the world that you've noted in some of the articles you've been in and at the conference, is there any point where that rougher outlook has you tightened the underwriting box to build capital and liquidity faster?"
+    ],
+    [
+     "We don't see anything looks systemic, but there is leverage in certain credit portfolio, this leverage for certain companies is leverage.",
+     "Were there any leverage loan write-downs this quarter?",
+     "You guys have been talking about the system liquidity with, Jamie, you referenced QT, also the fragility of the system.",
+     "So what are some of the things you guys focus in on to see if there's going to be maybe more -- some liquidity issues that could lead to greater problems?",
+     "So there's a lot of cushion there for that to come down before you start to have a real challenge from a liquidity perspective."
+    ]
+   ],
+   "cyber": [
+    [
+     "So -- so first of all, cyber we are going to do -- we have to do whatever it takes and we are going to do that in -- in everything we do.",
+     "And we use a lot of that -- like a lot of that stuff also protects our clients in cyber.",
+     "And we do a tremendous amount already in marketing, risk, fraud, cyber, you name it."
+    ],
+    [],
+    [],
+    [],
+    [
+     "Like, for example, with all the fraud and all the cyber and all the ransomware, are forced to close down this year.",
+     "Again, just looking for some more specifics, at least, on digital banking and other tech areas, we expect revenue of pickup, not just -- you mentioned fraud and AML and ransomware and cyber, and that's all -- that's table stakes, as you would say."
+    ],
+    [
+     "They're building out our wholesale capabilities to do a far better job for clients globally around the world and supported by, what I would say, very good cyber-risk control, which clients really need to, by the way.",
+     "So, I pointed that out over and over that, you know, people don't understand that those things can change dramatically for either physical reasons, cyber reasons, or just, you know, supply demand."
+    ],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   1006,
+   667,
+   818,
+   698,
+   960,
+   674,
+   667,
+   535
+  ]
+ },
+ "TSLA": {
+  "quarters": [
+   "2020-Q4",
+   "2021-Q1",
+   "2021-Q2",
+   "2021-Q3",
+   "2021-Q4",
+   "2022-Q2",
+   "2022-Q3",
+   "2022-Q4"
+  ],
+  "counts": {
+   "regulatory": [
+    7,
+    1,
+    2,
+    16,
+    3,
+    1,
+    5,
+    1
+   ],
+   "supply_chain": [
+    1,
+    4,
+    7,
+    5,
+    11,
+    8,
+    1,
+    0
+   ],
+   "macro": [
+    4,
+    6,
+    4,
+    10,
+    6,
+    15,
+    10,
+    17
+   ],
+   "competition": [
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    0,
+    3
+   ],
+   "liquidity": [
+    2,
+    4,
+    1,
+    1,
+    1,
+    4,
+    4,
+    2
+   ],
+   "cyber": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "sentences": {
+   "regulatory": [
+    [
+     "So we expect a pretty dynamic 2021 in the regulatory space.",
+     "On the regulatory and credit sales side, this isn't always an area that's extremely difficult for us to forecast.",
+     "Most of our regulatory credit revenue from Q4 was not lined up prior to the beginning of the quarter.",
+     "I mean what I said before is that in the long-term, regulatory credit sales will not be a material part of the business, and we don't plan the business around that.",
+     "Can you talk a little bit about the regulatory environment for FSD and how you're seeing that play out?"
+    ],
+    [
+     "We're talking millions of cars, massive global supply chain, 50 countries, dozens of regulatory regimes."
+    ],
+    [
+     "Are you seeing meaningful evolution in terms of the regulators really understanding the technology and beginning to set some standards here sometime in the near term?\nElon Musk -- Chief Executive Officer\nAt least in the U.S., we don't see regulation as the fundamental limiter.",
+     "And then just the follow-up there is about the kin to the regulatory environment, keeping up with the technology."
+    ],
+    [
+     "The next question is, what is your view on the tightening regulatory environment for FSD, the investigation, and broad data request by NHTSA?",
+     "I mean as I said earlier, we always cooperate fully with NHTSA and other regulatory bodies in any sort of investigation they may have, particularly related to ADAS systems.",
+     "We're excited to partner and we'll work collaboratively with all regulatory bodies who want -- to go on the journey to the transition to a software-oriented vehicle.",
+     "We will launch the product in those states as we receive regulatory approvals.",
+     "We can deal with the regulatory stuff later."
+    ],
+    [
+     "We currently offer Tesla insurance in five states in the U.S. Four of them are telematics, which is Texas, Illinois, Ohio, and Arizona, and then California, which has a more standard insurance offering based upon regulations there.",
+     "We also saw regulatory credits accounting for a relatively small portion of our 2021 profitability, which we expect to continue to reduce in materiality going forward.",
+     "There's a lot of uncertainty around that based upon the regulatory processes, but that's our goal."
+    ],
+    [
+     "And hopefully, if we get regulatory approval, we'll also be releasing it hopefully in Europe and some other parts of the world."
+    ],
+    [
+     "And then, of course, we've got to prove it to regulators and get the regulatory approvals, which is outside of our control.",
+     "So, a separate matter as to will it have regulatory approval.",
+     "Removing regulatory credits and Austin and Berlin, our operating margins would have been our strongest yet and auto gross margin would have been nearly 30%.",
+     "I think we'll also have an update next year to be able to show to regulators that the car is safer much so than the average human.",
+     "And are there any sort of regulatory hurdles you'd have to think about?\nElon Musk -- Chief Executive Officer and Product Architect\nWe -- as I said earlier, we're expecting to release the full self-driving software to anyone who orders the package by the end of this year."
+    ],
+    [
+     "The regulations here are still in flux and there continues to be updates, so this is just our best understanding at the moment."
+    ]
+   ],
+   "supply_chain": [
+    [
+     "Additionally, we're working extremely hard to manage through the global semiconductor shortage as well as port capacity, which may have a temporary impact."
+    ],
+    [
+     "This again is contingent on global supply chain issues, which is just a lot of factors outside of our control here.",
+     "So the team has really done an incredible job of dealing with really severe supply chain shortages.",
+     "So Q1 was -- had some of the most difficult supply chain challenges that we've ever experienced in the life of Tesla and same difficulties with supply chain, with parts -- over the whole range of parts.",
+     "Obviously, people have heard about the chip shortage."
+    ],
+    [
+     "Well, by the same token, if we're prioritizing vehicle production, If there's a shortage of cell upward for some reason, then we will throttle down Megapack and Powerwall production.",
+     "We have had some factory shutdowns due to part shortages, and we hope those will be relieved in the coming weeks and months.",
+     "So in order for Cybertruck and Semi to scale to volume that's meaningful for customer deliveries, we've got to solve the chip shortage working with our suppliers.",
+     "Regarding supply chain, while we're making cars at full speed, the global chip shortage situation remains quite serious.",
+     "But as the semiconductor shortage is alleviated, then we can massively ramp up Powerwall production."
+    ],
+    [
+     "We're getting feedback from our suppliers, as we are seeing ourselves, the impact of labor shortage.",
+     "Supply chain challenges, including expedites, continue to provide cost headwinds as was also the case with FX this quarter.",
+     "Due to part shortages and logistics variability, we have not been able to run our factories at full capacity.",
+     "But, you know, there is a strategy that we work behind the scenes as we're balancing supply and demand, as we're also trying to balance various shortages on parts, as we're trying to manage wait times.",
+     "And based upon everything that we know in the factory, where the bottlenecks are, what the potential is, we're targeting to increase that another 50%."
+    ],
+    [
+     "Supply chain challenges and port congestion resulted in a significant increase in our expedite costs in Q4.",
+     "so that's -- there are multiple supply chain challenges.",
+     "So you've talked a lot about all this shortage and the supply difficulties.",
+     "So what happens if you don't actually have a labor shortage?",
+     "So the chip shortage, while better than last year, is still an issue."
+    ],
+    [
+     "[Inaudible] even now where the supply chain issues with our Tier 1s and Tier 2s, get into it with us on the engineering side when we find solutions, whether it's alternative chips or changing the entire structure of this pack to make it work.",
+     "We've heard a lot from others and certainly to some degree from you all about the shortages in semiconductors, in particular.",
+     "The second thing to Elon's point about backlogs, we have a very long runway with very long lead times here.",
+     "So we want that lead times to reduce.",
+     "I think anecdotally, if you squint, the lead times have gotten a little lower over the last four months in both China and the U.S."
+    ],
+    [
+     "Sorry, sorry, I took it longer than expected, but there were a few things that got in the way, like insane global supply chain shortages like FedEx, which are force majeure if [Inaudible] one."
+    ],
+    []
+   ],
+   "macro": [
+    [
+     "Obviously, there's a lot going on as low interest rates flow through the basic material space.",
+     "In Europe, we see a general slowdown, generally not reaching past Level 3 right now with some impetus to start working on new working groups to reach past that.",
+     "And then just a quick follow-up around inflation on some of the materials markets.",
+     "Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC."
+    ],
+    [
+     "We continue to generate positive free cash flows, and this was despite the significant working capital headwinds from S and X.\nAdditionally, we are making progress reducing various forms of debt.",
+     "The reduction in Model S and X deliveries from Q4 to Q1 were a meaningful headwind to free cash flows and profit generation.",
+     "So production is going fine, but we are chocked at the inflation point.",
+     "So as we look out over the course of the year, we feel optimistic about our gross margin strength, particularly as some of these headwinds we're experiencing start to be resolved.",
+     "Particularly as we look forward to the launch of Austin and Berlin and uncertainty that's happening with semiconductors and port capacity, being able to access our cash very quickly is super important to us right now."
+    ],
+    [
+     "As we work through the uncertainty, we want to ensure we do our best to manage customer wait times, as well as the impact these interruptions have on our employees and costs.",
+     "And supply chain challenges, including expedites, continued to provide cost headwinds.",
+     "Additionally, each quarter, we are using our cash to retire legacy debt, which was taken on at a time when interest rates and company risk were much higher than in today's environment.",
+     "Actual events and results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC."
+    ],
+    [
+     "We also continue to retire high-interest rate debt, including the early settlement of our 2025 senior notes of $1.8 billion during the quarter.",
+     "There's just a lot of uncertainty in the world right now.",
+     "Supply chain challenges, including expedites, continue to provide cost headwinds as was also the case with FX this quarter.",
+     "So I expect we'll see some amount of headwind on margin from these ramps.",
+     "It's just entirely dependent on how quickly we're able to ramp and what uncertainties come up during the process."
+    ],
+    [
+     "We are also seeing inflation and rising commodity prices, which we expect to continue to put pressure on our costs.",
+     "We also have pressures coming from inflation, supply chain, raw materials, etc.",
+     "There's a lot of uncertainty around that based upon the regulatory processes, but that's our goal.",
+     "The next question is, how much of Tesla's margin improvement is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?",
+     "How this specifically impacts gross margins in the near term is uncertain, given a mix of both tailwinds and headwinds."
+    ],
+    [
+     "While we continue to see a benefit from higher pricing flowing through, which experienced some foreign exchange-related headwinds, our cost structure continues to experience cost increases from inflation, commodities and logistics.",
+     "When we -- when or if we see indications that the inflation rate is declining, then we would not need to increase our car prices.",
+     "We have to anticipate what the probable inflation rate is over that period of time.",
+     "The next question is you made the right economic call before most on inflation when you diversified into bitcoin.",
+     "The next question is Elon recently tweeted about lowering prices once inflation cools down."
+    ],
+    [
+     "But I wouldn't say it's recession proof, but it's certainly risk -- recession resilient because basically, it has -- people both have large part made the decision to move away from gasoline cars to electric cars.",
+     "We also continue to experience margin headwinds associated with macroeconomic conditions, as we've discussed at length on prior calls.",
+     "So, we are not reducing our production in any meaningful way, recession or not recession.",
+     "Elon Musk -- Chief Executive Officer and Product Architect\nYeah, we try to model out like, let's say, 2023 is a brutal recession year.",
+     "Elon Musk -- Chief Executive Officer and Product Architect\nThere's more deflation than inflation."
+    ],
+    [
+     "I think if we see a severe recession this year, which, like I said, hopefully, we don't, in severe recessions, cash is king big time because it's in such short supply.",
+     "For Q4 specifically, sequential and annual margin was impacted by ASP reductions as we are managing through COVID impacts in China, uncertainty around the consumer tax credit in the U.S. and a rising interest rate environment.",
+     "So there is certainly a lot of uncertainty about how the year will unfold, but I'll share what's in our current forecast for a moment.",
+     "So that's a headwind that would have to be overcome to return back to those levels.",
+     "On the raw materials and inflation side, where lithium is the large driver there and this was a meaningful source of cost increase for us, we'll have to see where lithium prices go."
+    ]
+   ],
+   "competition": [
+    [],
+    [
+     "For Model 3 to be outselling its combustion engine competitors, I think, is quite remarkable."
+    ],
+    [
+     "But I think we do want to emphasize that it is our goal to support the advent of sustainable energy, it is not to create a wolf garden and use that to bludgeon our competitors, which is sometimes used by some companies."
+    ],
+    [],
+    [],
+    [
+     "And the first question is, Chinese EV manufacturers seem to be doing a better job than their Western competitors, excluding Tesla, at innovating in software and design."
+    ],
+    [],
+    [
+     "So you recently adjusted prices, and that may have put many of your competitors in the back foot.",
+     "So like it -- whoever keeps up with the trend of EVs is going to be our competitor.",
+     "And who do you see as your chief competitors five years from now?"
+    ]
+   ],
+   "liquidity": [
+    [
+     "And it's great to be able to have the liquidity to focus on that.",
+     "And can you just give us a sense of what the elevated liquidity does and doesn't buy?"
+    ],
+    [
+     "Elon and I were looking for a place to store cash that wasn't being immediately used, trying to get some level of return on this, but also preserve liquidity.",
+     "But thinking about it from a corporate treasury perspective, we've been quite pleased with how much liquidity there is in the bitcoin market.",
+     "And there aren't many traditional opportunities to do this or at least that we found and in talking to others that we could get good feedback on, particularly with yields being so low and without taking on additional risk or sacrificing liquidity.",
+     "And so as we think about kind of global liquidity for the business in risk management, being able to get cash in and out of the market is something that I think is exceptionally important for us."
+    ],
+    [
+     "I think also, I'd like -- this is the last time I'll do earnings calls, but this is the -- I will no longer speak, default, during earnings calls."
+    ],
+    [
+     "Can you talk a little bit about your strategy around anode materials and your ability to leverage that into a reduction on the cathode side and performance from [Inaudible]\nDrew Baglino -- Senior Vice President\nSure."
+    ],
+    [
+     "However, we do expect to continue to see stronger operating margins as we grow our volumes and improve operating leverage."
+    ],
+    [
+     "We have seen some big, important customers of that type of product decide to sort of leverage the ecosystems that exist to make some of their own in those categories.",
+     "It's just that we were concerned about overall liquidity for the company, given COVID shutdowns in China.",
+     "But right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp Texas and Berlin.",
+     "Additionally, we converted a majority of our bitcoin holdings to fiat for a realized gain, offset by impairment charges on the remainder of our holdings, netting a $106 million cost to the P&L included within restructuring and other."
+    ],
+    [
+     "Or should we be thinking about this level of spend on a go-forward basis and some significant operating leverage as you scale up from here?",
+     "Operating margin is one of our best yet, with improvements in operating leverage.",
+     "I mean, our operating leverage has improved quite a bit.",
+     "Colin Rusch -- Oppenheimer and Company -- Analyst\nThe operating leverage has been pretty impressive here."
+    ],
+    [
+     "As we look toward 2023, we are moving forward aggressively leveraging our strength and cost.",
+     "And so, as other areas of the business become more important, particularly the energy business, which is growing faster than the vehicle business, and as we're heavily focused on operating leverage here, improving efficiency of our overheads, we think the right metric for us to be focused on is operating margin."
+    ]
+   ],
+   "cyber": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ]
+  },
+  "total_sentences": [
+   584,
+   545,
+   529,
+   572,
+   567,
+   624,
+   625,
+   532
+  ]
+ }
+}

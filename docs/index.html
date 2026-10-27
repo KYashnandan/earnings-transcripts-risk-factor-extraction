@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fault Lines: risk in earnings calls</title>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;800&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#dfe4e8;--ink:#1c2630;--mute:#5d6b78;--paper:#f3f1ec;--rust:#b5483a}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 "IBM Plex Sans",system-ui,sans-serif}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.hero{position:relative;height:100svh;min-height:520px;background:var(--bg)}
+canvas{position:absolute;inset:0;width:100%;height:100%;touch-action:pan-y;cursor:grab}
+aside{position:absolute;left:20px;top:20px;bottom:20px;width:340px;max-width:calc(100% - 40px);background:var(--paper);padding:22px;overflow:auto;border-radius:4px 22px 4px 22px;box-shadow:0 18px 40px -22px #1c263099}
+h1,h2{font-family:"Bricolage Grotesque",sans-serif;letter-spacing:-.02em;margin:0}
+h1{font-weight:800;font-size:36px;line-height:1;margin-bottom:8px}
+h2{font-weight:800;font-size:clamp(26px,4vw,38px);line-height:1.1;margin-bottom:16px}
+h3{font:500 18px "Bricolage Grotesque",sans-serif;margin:0 0 6px}
+p{margin:0 0 14px}.mute{color:var(--mute)}
+select{width:100%;padding:9px;font:inherit;background:#fff;border:1px solid #b9c2ca;border-radius:3px;margin-bottom:14px}
+.key{display:flex;flex-wrap:wrap;gap:6px 14px;margin-bottom:16px;font-size:13px}
+.key span{display:flex;align-items:center;gap:6px}.key i{width:11px;height:11px;display:inline-block}
+#list{padding-left:18px;margin:0;font-size:14px}#list li{margin-bottom:10px}
+.cue{position:absolute;right:24px;bottom:20px;color:var(--mute);font-size:14px}
+section.s{max-width:860px;margin:0 auto;padding:88px 24px 0}
+.steps{list-style:none;padding:0;margin:0;counter-reset:s}
+.steps li{counter-increment:s;display:grid;grid-template-columns:44px 1fr;padding:14px 0;border-top:1px solid #cfd3d6}
+.steps li:before{content:counter(s);font:800 26px "Bricolage Grotesque",sans-serif;color:var(--rust)}
+.bar{display:grid;grid-template-columns:110px 1fr 38px;align-items:center;gap:10px;margin:7px 0;font-size:14px}
+.bar b{height:16px;display:block;transition:width .5s}
+.bar span:last-child{text-align:right}
+pre{background:#1c2630;color:#e8ecef;padding:18px;overflow:auto;border-radius:4px;font-size:13px;line-height:1.5}
+.note{font-size:13px;color:#8a4a2b}
+footer{max-width:860px;margin:0 auto;padding:72px 24px 48px;color:var(--mute);font-size:14px}
+a{color:var(--rust)}
+.f{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:14px}.f select{width:auto;margin:0}
+button{font:inherit;padding:9px 16px;background:var(--ink);color:var(--paper);border:0;border-radius:3px;cursor:pointer}button:disabled{opacity:.4;cursor:not-allowed}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;padding:7px 9px;border-top:1px solid #d5d9dc;vertical-align:top}th{font-weight:500;color:var(--mute)}
+textarea{width:100%;min-height:120px;padding:10px;font:inherit;border:1px solid #b9c2ca;border-radius:3px;margin-bottom:10px}
+.cm td,.cm th{text-align:center;padding:6px 8px}.sm{font-size:14px}
+
+@media(max-width:700px){aside{top:auto;height:44%;width:calc(100% - 40px)}.cue{display:none}}
+</style>
+</head>
+<body>
+<header class="hero" id="top">
+  <canvas id="c" aria-label="3D chart of risk sentences by type and quarter"></canvas>
+  <aside>
+    <h1>Fault Lines</h1>
+    <p class="mute">Each tower counts the risk sentences in one earnings call. Quarters run front to back, oldest at the back.</p>
+    <select id="co" aria-label="Company"></select>
+    <div class="key" id="key"></div>
+    <h3 id="ttl">Tap a tower</h3>
+    <ul id="list"></ul>
+  </aside>
+  <a class="cue" href="#how">Scroll for how it works</a>
+</header>
+
+<section class="s" id="how">
+  <h2>What executives worry about, counted</h2>
+  <p>On an earnings call, management explains what went wrong and what might. Fault Lines reads the transcripts and counts how often each kind of risk comes up, quarter by quarter, so a rising trend is easy to spot before you read the full text.</p>
+</section>
+
+<section class="s">
+  <h2>How it works</h2>
+  <ol class="steps">
+    <li><div><h3>Load transcripts</h3><p class="mute">A CSV with company, quarter and transcript text.</p></div></li>
+    <li><div><h3>Split into sentences</h3><p class="mute">spaCy's English pipeline splits each call into sentences and keeps those of 8 to 60 words.</p></div></li>
+    <li><div><h3>Match risk phrases</h3><p class="mute">Lemma-based matching finds phrases for six types: regulatory, supply chain, macro, competition, liquidity and cyber. Negated mentions such as "no supply chain disruption" are skipped.</p></div></li>
+    <li><div><h3>Write the results</h3><p class="mute">Counts and the top sentences per type go to one JSON file, read by this page and the Streamlit dashboard.</p></div></li>
+  </ol>
+</section>
+
+<section class="s">
+  <h2>Latest quarter</h2>
+  <p class="mute" id="who"></p>
+  <div id="bars"></div>
+  <p class="note" id="demo" hidden>These numbers come from the small sample in data/sample_transcripts.csv, not real calls.</p>
+</section>
+
+<section class="s">
+  <h2>Trend by quarter</h2>
+  <div id="trend"></div>
+  <div class="key" id="key2"></div>
+  <h3>Share of each call that mentions risk</h3>
+  <div id="share"></div>
+</section>
+
+<section class="s">
+  <h2>Read the sentences</h2>
+  <div class="f"><select id="fk" aria-label="Risk type"></select><select id="fq" aria-label="Quarter"></select><button id="dl">Download CSV</button><span class="mute" id="cnt"></span></div>
+  <div class="tw"><table><thead><tr><th>Quarter</th><th>Type</th><th>Sentence</th></tr></thead><tbody id="rows"></tbody></table></div>
+</section>
+
+<section class="s" id="ml" hidden>
+  <h2>Can a classifier learn it?</h2>
+  <p class="mute" id="mltxt"></p>
+  <div id="mlbars"></div>
+  <h3 style="margin-top:22px">Per risk type (best model)</h3>
+  <div class="tw" id="pc"></div>
+  <h3 style="margin-top:22px">Confusion matrix</h3>
+  <p class="mute sm">Rows are the true type, columns what the model predicted.</p>
+  <div class="tw" id="cmx"></div>
+  <h3 style="margin-top:22px">Words the model links to each type</h3>
+  <ul id="feat" class="sm"></ul>
+  <p class="note">Labels come from the keyword list, so these scores measure how well context alone recovers them, not agreement with human annotators.</p>
+</section>
+
+<section class="s">
+  <h2>Try it live</h2>
+  <p class="note" id="livenote">Live mode needs the Python server: run <code>python server.py</code> and open http://127.0.0.1:8000</p>
+  <textarea id="txt">Supply chain disruption pushed our lead time past ten weeks. Higher interest rates and persistent inflation are weighing on consumer demand. We opened twelve new stores and customers responded warmly.</textarea>
+  <button id="live" disabled>Analyse text</button>
+  <div class="tw" id="out" style="margin-top:14px"></div>
+  <h3 style="margin-top:28px">Your own transcripts</h3>
+  <p class="mute">Upload a CSV with a company, a quarter and a transcript column. The Python pipeline runs on it and this whole page updates.</p>
+  <input type="file" id="file" accept=".csv" disabled>
+  <p class="mute" id="up"></p>
+</section>
+
+<section class="s">
+  <h2>Run it yourself</h2>
+<pre>pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+python -m fault_lines.cli
+python -m fault_lines.dataset
+python -m fault_lines.train
+python server.py        # this website, connected to the Python code
+streamlit run app.py    # the dashboard</pre>
+  <p>Swap in a Kaggle earnings-call CSV with <code>--csv</code>, <code>--company-col</code>, <code>--quarter-col</code> and <code>--text-col</code>.</p>
+  <h3>Limits</h3>
+  <p class="mute">Phrase matching misses implied risk, and counts grow with call length. Use the counts to decide what to read, not as a verdict.</p>
+</section>
+<footer>Fault Lines. Python, spaCy, Streamlit, three.js. Data: Motley Fool earnings-call transcripts from Kaggle (tpotterer), 10 companies, 8 quarters each.</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+const CATS={regulatory:["Regulatory","#b5483a"],supply_chain:["Supply chain","#c58b2a"],macro:["Macro","#3f6b8c"],competition:["Competition","#5e7f5b"],liquidity:["Liquidity","#7a5c8e"],cyber:["Cyber","#2c2f36"]};
+const keys=Object.keys(CATS),$=id=>document.getElementById(id),esc=s=>String(s).replace(/[&<>"']/g,c=>"&#"+c.charCodeAt(0)+";");
+const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+let data,cur,meshes=[],t0=0,yaw=-.6,pitch=.55,dist=17;
+
+const cv=$("c"),R=new THREE.WebGLRenderer({canvas:cv,antialias:true});
+const S=new THREE.Scene();S.background=new THREE.Color("#dfe4e8");S.fog=new THREE.Fog("#dfe4e8",18,42);
+const cam=new THREE.PerspectiveCamera(42,1,.1,100);
+S.add(new THREE.HemisphereLight("#ffffff","#8d98a3",.5));
+const sun=new THREE.DirectionalLight("#fff4e0",.55);sun.position.set(6,12,5);S.add(sun);
+const G=new THREE.Group();S.add(G);
+
+function label(t,k=1){const c=document.createElement("canvas");c.width=256;c.height=64;const x=c.getContext("2d");x.font="500 30px IBM Plex Sans, sans-serif";x.fillStyle="#1c2630";x.textAlign="center";x.fillText(t,128,42);
+ const s=new THREE.Sprite(new THREE.SpriteMaterial({map:new THREE.CanvasTexture(c),transparent:true}));s.scale.set(2.4*k,.6*k,1);return s}
+
+function build(name){
+ cur=name;while(G.children.length)G.remove(G.children[0]);meshes=[];
+ const d=data[name],gap=1.25,nq=d.quarters.length;dist=Math.max(17,11+nq*1.3);const max=Math.max(1,...keys.flatMap(k=>d.counts[k]));
+ keys.forEach((k,i)=>{d.counts[k].forEach((n,j)=>{
+  const h=Math.max(.08,n/max*5),m=new THREE.Mesh(new THREE.BoxGeometry(.9,h,.9),new THREE.MeshLambertMaterial({color:CATS[k][1]}));
+  m.userData={k,j,h};m.position.set((i-2.5)*gap,0,(j-(nq-1)/2)*gap);m.scale.y=.001;G.add(m);meshes.push(m)});
+  const l=label(CATS[k][0],.9);l.position.set((i-2.5)*gap,.1,(nq/2+.9)*gap);G.add(l)});
+ d.quarters.forEach((q,j)=>{const l=label(q,.8);l.position.set(-4.7,-.1,(j-(nq-1)/2)*gap);G.add(l)});
+ const f=new THREE.Mesh(new THREE.BoxGeometry(8.6,.1,nq*gap+1),new THREE.MeshLambertMaterial({color:"#aeb8c1"}));f.position.y=-.06;G.add(f);
+ $("ttl").textContent="Tap a tower";$("list").innerHTML="";t0=performance.now();bars();renderAll()}
+
+function pick(m){
+ meshes.forEach(x=>x.material.emissive.setHex(0));m.material.emissive.setHex(0x333333);
+ const {k,j}=m.userData,d=data[cur];
+ $("ttl").textContent=`${CATS[k][0]}, ${d.quarters[j]}: ${d.counts[k][j]} sentences`;
+ $("list").innerHTML=(d.sentences[k][j]||[]).map(s=>`<li>${s.replace(/</g,"&lt;")}</li>`).join("")}
+
+function bars(){
+ const d=data[cur],last=d.quarters.length-1,max=Math.max(1,...keys.map(k=>d.counts[k][last]));
+ $("who").textContent=`${cur}, ${d.quarters[last]}. Sentences matched per risk type.`;
+ $("bars").innerHTML=keys.map(k=>`<div class="bar"><span>${CATS[k][0]}</span><b style="width:${d.counts[k][last]/max*100}%;background:${CATS[k][1]}"></b><span>${d.counts[k][last]}</span></div>`).join("");
+ $("demo").hidden=!/^Sample/.test(cur)}
+
+function frame(t){
+ const w=cv.clientWidth,h=cv.clientHeight;
+ if(cv.width!==Math.round(w*devicePixelRatio)){R.setPixelRatio(devicePixelRatio);R.setSize(w,h,false);cam.aspect=w/h;cam.setViewOffset(w,h,w>700?-190:0,0,w,h)}
+ const g=reduce?1:Math.min(1,(t-t0)/1400);
+ meshes.forEach((m,i)=>{const e=Math.min(1,Math.max(0,g*1.6-(i%6)*.05)),s=Math.max(.001,1-Math.pow(1-e,3));m.scale.y=s;m.position.y=m.userData.h*s/2});
+ cam.position.set(Math.sin(yaw)*Math.cos(pitch)*dist,Math.sin(pitch)*dist,Math.cos(yaw)*Math.cos(pitch)*dist);cam.lookAt(0,1.2,0);
+ R.render(S,cam);requestAnimationFrame(frame)}
+
+let down=null;
+cv.addEventListener("pointerdown",e=>{down={x:e.clientX,y:e.clientY,moved:0};cv.setPointerCapture(e.pointerId);cv.style.cursor="grabbing"});
+cv.addEventListener("pointermove",e=>{if(!down)return;const dx=e.clientX-down.x,dy=e.clientY-down.y;down.moved+=Math.abs(dx)+Math.abs(dy);down.x=e.clientX;down.y=e.clientY;yaw-=dx*.006;pitch=Math.min(1.35,Math.max(.15,pitch+dy*.004))});
+cv.addEventListener("pointercancel",()=>{down=null;cv.style.cursor="grab"});
+cv.addEventListener("pointerup",e=>{cv.style.cursor="grab";if(down&&down.moved<6){const r=cv.getBoundingClientRect(),v=new THREE.Vector2((e.clientX-r.left)/r.width*2-1,-(e.clientY-r.top)/r.height*2+1),rc=new THREE.Raycaster();rc.setFromCamera(v,cam);const hit=rc.intersectObjects(meshes)[0];if(hit)pick(hit.object)}down=null});
+cv.addEventListener("wheel",e=>{if(e.ctrlKey||e.metaKey){e.preventDefault();dist=Math.min(28,Math.max(7,dist+e.deltaY*.02))}},{passive:false});
+
+fetch("data/metrics.json").then(r=>r.json()).then(m=>{
+ $("ml").hidden=false;renderML(m);
+ $("mltxt").textContent=`Sentence classifiers guess the risk type from context with the keywords hidden, scored on companies they never saw (${m.n_train.toLocaleString()} sentences, ${m.n_companies} companies). Macro F1, higher is better.`;
+ $("mlbars").innerHTML=Object.entries(m.models).map(([n,v])=>`<div class="bar" style="grid-template-columns:150px 1fr 44px"><span>${esc(n)}</span><b style="width:${v.macro_f1*100}%;background:#3f6b8c"></b><span>${v.macro_f1.toFixed(2)}</span></div>`).join("")}).catch(()=>{});
+
+let EXPORT=[],LIVE=false;
+function legend(){return keys.map(k=>`<span><i style="background:${CATS[k][1]}"></i>${CATS[k][0]}</span>`).join("")}
+function renderAll(){trend();
+ $("fk").innerHTML='<option value="all">All risk types</option>'+keys.map(k=>`<option value="${k}">${CATS[k][0]}</option>`).join("");
+ $("fq").innerHTML='<option value="all">All quarters</option>'+data[cur].quarters.map(q=>`<option>${esc(q)}</option>`).join("");explore()}
+function trend(){
+ const d=data[cur],W=760,H=270,p=36,nq=d.quarters.length,max=Math.max(1,...keys.flatMap(k=>d.counts[k]));
+ const x=i=>nq>1?p+i*(W-2*p)/(nq-1):W/2,y=v=>H-p-v/max*(H-2*p);
+ let s=`<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Risk sentences per quarter by type">`;
+ for(let g=0;g<=4;g++){const v=max*g/4;s+=`<line x1="${p}" x2="${W-p}" y1="${y(v)}" y2="${y(v)}" stroke="#d5d9dc"/><text x="${p-6}" y="${y(v)+4}" font-size="11" text-anchor="end" fill="#5d6b78">${Math.round(v)}</text>`}
+ d.quarters.forEach((q,i)=>s+=`<text x="${x(i)}" y="${H-10}" font-size="11" text-anchor="middle" fill="#5d6b78">${esc(q)}</text>`);
+ keys.forEach(k=>{s+=`<polyline fill="none" stroke="${CATS[k][1]}" stroke-width="2.5" points="${d.counts[k].map((v,i)=>x(i)+","+y(v)).join(" ")}"/>`});
+ $("trend").innerHTML=s+"</svg>";$("key2").innerHTML=legend();
+ const sh=d.quarters.map((_,i)=>keys.reduce((a,k)=>a+d.counts[k][i],0)/Math.max(1,d.total_sentences[i])*100),mx=Math.max(.1,...sh);
+ $("share").innerHTML=d.quarters.map((q,i)=>`<div class="bar"><span>${esc(q)}</span><b style="width:${sh[i]/mx*100}%;background:#b5483a"></b><span>${sh[i].toFixed(1)}%</span></div>`).join("")}
+function explore(){
+ const d=data[cur],k=$("fk").value,q=$("fq").value,rows=[];
+ keys.forEach(c=>{if(k!=="all"&&k!==c)return;d.quarters.forEach((qq,i)=>{if(q!=="all"&&q!==qq)return;(d.sentences[c][i]||[]).forEach(t=>rows.push([qq,CATS[c][0],t]))})});
+ EXPORT=rows;$("cnt").textContent=`${rows.length} sentences${rows.length>60?", showing 60":""}`;
+ $("rows").innerHTML=rows.slice(0,60).map(r=>`<tr><td>${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join("")||'<tr><td colspan="3">No sentences.</td></tr>'}
+$("fk").onchange=$("fq").onchange=explore;
+$("dl").onclick=()=>{const q=c=>'"'+String(c).replace(/"/g,'""')+'"',csv=[["quarter","type","sentence"],...EXPORT].map(r=>r.map(q).join(",")).join("\n"),a=document.createElement("a");
+ a.href=URL.createObjectURL(new Blob([csv],{type:"text/csv"}));a.download=cur+"_risks.csv";a.click()};
+function renderML(m){
+ const nm=l=>esc(l.replace("_"," "));
+ $("pc").innerHTML="<table><thead><tr><th>Type</th><th>Precision</th><th>Recall</th><th>F1</th><th>Sentences</th></tr></thead><tbody>"+m.labels.map(l=>{const v=m.per_class[l];return `<tr><td>${nm(l)}</td><td>${v.precision.toFixed(2)}</td><td>${v.recall.toFixed(2)}</td><td>${v.f1.toFixed(2)}</td><td>${v.support}</td></tr>`}).join("")+"</tbody></table>";
+ $("cmx").innerHTML='<table class="cm"><thead><tr><th></th>'+m.labels.map(l=>`<th>${nm(l)}</th>`).join("")+"</tr></thead><tbody>"+m.confusion.map((r,i)=>{const t=r.reduce((a,b)=>a+b,0)||1;return `<tr><th>${nm(m.labels[i])}</th>`+r.map(v=>`<td style="background:rgba(63,107,140,${(v/t*.85).toFixed(2)})">${v}</td>`).join("")+"</tr>"}).join("")+"</tbody></table>";
+ $("feat").innerHTML=Object.entries(m.top_features).map(([c,w])=>`<li><b>${CATS[c][0]}</b>: ${w.map(esc).join(", ")}</li>`).join("")}
+function live(on){LIVE=on;$("livenote").hidden=on;$("live").disabled=!on;$("file").disabled=!on}
+fetch("api/health").then(r=>live(r.ok)).catch(()=>live(false));
+$("live").onclick=async()=>{$("out").textContent="Working...";
+ try{const r=await fetch("api/analyse",{method:"POST",body:JSON.stringify({text:$("txt").value})}),rows=await r.json();
+  if(!r.ok)throw 0;
+  $("out").innerHTML="<table><thead><tr><th>Sentence</th><th>Keyword match</th><th>Model says</th><th>Confidence</th></tr></thead><tbody>"+rows.map(x=>`<tr><td>${esc(x.Sentence)}</td><td>${esc(x["Keyword match"])}</td><td>${esc(x["Model says"])}</td><td>${x.Confidence}</td></tr>`).join("")+"</tbody></table>"}
+ catch(e){$("out").textContent="Could not reach the server."}};
+$("file").onchange=async e=>{const f=e.target.files[0];if(!f)return;$("up").textContent="Analysing "+f.name+" ...";
+ try{const r=await fetch("api/extract",{method:"POST",body:await f.text()});if(!r.ok)throw 0;data=await r.json();
+  $("co").innerHTML=Object.keys(data).map(n=>`<option>${esc(n)}</option>`).join("");build(Object.keys(data)[0]);
+  $("up").textContent=`Loaded ${Object.keys(data).length} companies from ${f.name}.`}
+ catch(err){$("up").textContent="Could not analyse that file."}};
+
+$("key").innerHTML=keys.map(k=>`<span><i style="background:${CATS[k][1]}"></i>${CATS[k][0]}</span>`).join("");
+$("co").onchange=e=>build(e.target.value);
+(window.RISK_DATA?Promise.resolve(window.RISK_DATA):fetch("data/risks.json").then(r=>r.json())).then(d=>{
+ data=d;$("co").innerHTML=Object.keys(d).map(n=>`<option>${esc(n)}</option>`).join("");build(Object.keys(d)[0]);requestAnimationFrame(frame)})
+.catch(()=>{$("ttl").textContent="Could not load data/risks.json. Serve this folder with python -m http.server."});
+</script>
+</body>
+</html>
