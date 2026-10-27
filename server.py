@@ -52,5 +52,5 @@ class Handler(SimpleHTTPRequestHandler):
             self.reply({"error": str(e)[:200]}, 400)
 
 if __name__ == "__main__":
-    print("Fault Lines running at http://127.0.0.1:8000")
+    print("Risk factor extraction running at http://127.0.0.1:8000")
     ThreadingHTTPServer(("127.0.0.1", 8000), Handler).serve_forever()

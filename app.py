@@ -6,14 +6,14 @@ import streamlit.components.v1 as components
 from fault_lines.extract import extract, build_nlp
 from fault_lines.lexicon import LEXICON
 
-st.set_page_config(page_title="Fault Lines", layout="wide")
+st.set_page_config(page_title="Risk factors in earnings calls", layout="wide")
 NAMES = {k: k.replace("_", " ").title() for k in LEXICON}
 
 @st.cache_data(show_spinner="Reading transcripts with spaCy...")
 def analyse(df, c, q, t):
     return extract(df, c, q, t)
 
-st.sidebar.title("Fault Lines")
+st.sidebar.title("Earnings risk factors")
 up = st.sidebar.file_uploader("Transcripts CSV (optional)", type="csv")
 if up:
     raw = pd.read_csv(up)

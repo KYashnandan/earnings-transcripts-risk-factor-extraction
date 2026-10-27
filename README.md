@@ -1,7 +1,10 @@
-# Fault Lines
+# Risk Factor Extraction from Corporate Earnings Transcripts
 Risk factors from corporate earnings-call transcripts. spaCy extracts and counts risk sentences by type and quarter; a Streamlit dashboard and a scrollable 3D website show the result.
 
 Site: enable GitHub Pages on the `/docs` folder.
+
+## Workflow
+![Workflow](docs/workflow.png)
 
 ## Layout
 - `fault_lines/` extraction package (`lexicon.py`, `extract.py`, `cli.py`)
